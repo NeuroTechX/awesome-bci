@@ -37,6 +37,7 @@
 - [Cloudbrain](http://getcloudbrain.com/)
 - [Python MNE](http://martinos.org/mne/stable/index.html)
 - [OpenNFB](https://github.com/strfry/OpenNFB)
+- [Thunder](https://github.com/thunder-project/thunder)
 
 ## Tutorials
 
