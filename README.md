@@ -76,6 +76,8 @@
 * [Emotive Insight](https://emotiv.com/insight.php)
 * [Neurosky](http://neurosky.com/)
 * [Mattel Mindflex](https://en.wikipedia.org/wiki/Mindflex)
+* [TI ADS1299EEG-FE](http://www.ti.com/tool/ads1299eegfe-pdk)
+* [OpenEEG](http://openeeg.sourceforge.net/doc/)
 
 ## Introductory Books
 * [Beyond Boundaries (Nicolellis)](http://www.amazon.com/Beyond-Boundaries-Neuroscience-Connecting-Machines/dp/1250002613)
