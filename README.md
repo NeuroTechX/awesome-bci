@@ -101,10 +101,9 @@
 * [CHI](https://chi2016.acm.org/wp/)
 * [Cybathlon](http://www.cybathlon.ethz.ch/)
 * [BrainTech](http://conference.israelbrain.org/)
-* [NEUROTECHNIX](http://www.neurotechnix.org/)
 * [Brain Summit](http://brainsummit.com/)
-* [NIPS]()
-* [SfN]()
+* [NIPS](https://nips.cc/)
+* [SfN](http://www.sfn.org/)
 
 ## Signal Processing
 
