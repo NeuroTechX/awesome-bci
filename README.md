@@ -94,6 +94,17 @@
 * [Imaging Brain Function with EEG (Freeman & Quiroga)](http://www.springer.com/us/book/9781461449836)
 * [Matlab for Neuroscientists](http://www.amazon.com/MATLAB-Neuroscientists-Introduction-Scientific-Computing/dp/0123745519)
 
+## Events
+* [**List**: Curated list of events (BCI Society)](http://bcisociety.org/events/)
+* [BCI Meeting](http://bcisociety.org/meetings/bci-meeting-2016-welcome/)
+* [NeuroGaming / XTech](http://www.neurogamingconf.com/)
+* [CHI](https://chi2016.acm.org/wp/)
+* [Cybathlon](http://www.cybathlon.ethz.ch/)
+* [BrainTech](http://conference.israelbrain.org/)
+* [Brain Summit](http://brainsummit.com/)
+* [NIPS](https://nips.cc/)
+* [SfN](http://www.sfn.org/)
+
 ## Signal Processing
 
 * [Signals & Systems MIT Class](http://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/)
