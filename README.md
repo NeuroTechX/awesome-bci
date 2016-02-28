@@ -38,6 +38,7 @@
 - [Python MNE](http://martinos.org/mne/stable/index.html)
 - [OpenNFB](https://github.com/strfry/OpenNFB)
 - [Thunder](https://github.com/thunder-project/thunder)
+- [IntelliPi](https://github.com/AtlantsEmbedded/IntelliPi)
 
 ## Tutorials
 
@@ -65,6 +66,7 @@
 - [Strfry](http://strfry.org/blog/)
 - [Fabien Lotte](https://sites.google.com/site/fabienlotte/code-and-softwares)
 - [Chip Audette EEG Hacker](http://eeghacker.blogspot.ca/)
+- [Atlants Embedded](http://www.atlantsembedded.com/blog)
 
 ## Forums
 * [NeuroBB](https://neurobb.com/)
