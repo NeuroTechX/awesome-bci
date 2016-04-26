@@ -40,6 +40,7 @@
 - [OpenNFB](https://github.com/strfry/OpenNFB)
 - [Thunder](https://github.com/thunder-project/thunder)
 - [IntelliPi](https://github.com/AtlantsEmbedded/IntelliPi)
+- [bcikit](https://github.com/octopicorn/bcikit)
 
 ## Tutorials
 
