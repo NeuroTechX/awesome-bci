@@ -25,6 +25,7 @@
 - [BCI2000](http://www.schalklab.org/research/bci2000)
 - [BrainBay](http://www.shifz.org/brainbay/)
 - [FieldTrip](http://www.fieldtriptoolbox.org/)
+- [Thunder](https://github.com/thunder-project/thunder)
  
 ## Protocols
 
