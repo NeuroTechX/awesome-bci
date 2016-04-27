@@ -16,7 +16,7 @@
 - [Introductory Books](#introductory-books)
 - [Technical Books](#technical-books)
 - [Signal Processing](#signal-processing)
-- [Brain Database's](#brain-database's)
+- [Brain Databases](#brain-databases)
 
 ## Full Platforms
 
@@ -118,6 +118,6 @@
 * [Discrete-Time Signal Processing (2nd Edition) (Oppenheim, Schafer, Buck)](http://www.amazon.com/Discrete-Time-Signal-Processing-Edition-Prentice-Hall/dp/0137549202)
  
 
-## Brain Database's
+## Brain Databases
 
 * [SCCN list of eeg/erp data for free public download](http://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
