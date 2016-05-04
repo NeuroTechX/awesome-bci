@@ -54,6 +54,10 @@
 
 - [Kaggle Grasp and Lift](https://www.kaggle.com/c/grasp-and-lift-eeg-detection)
 - [Kaggle Error Detection](https://www.kaggle.com/c/inria-bci-challenge)
+- [Kaggle Decode the Human Brain](https://www.kaggle.com/c/decoding-the-human-brain)
+- [Kaggle Seizure Prediction](https://www.kaggle.com/c/seizure-prediction)
+- [Kaggle Seizure Detection](https://www.kaggle.com/c/seizure-detection)
+- [Decoding Brain Signals](https://gallery.cortanaintelligence.com/Competition/Decoding-Brain-Signals-2)
 - [BCI Competition](http://www.bbci.de/competition/iv/)
 
 ## Papers
