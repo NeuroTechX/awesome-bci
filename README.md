@@ -121,3 +121,4 @@
 ## Brain Databases
 
 * [SCCN list of eeg/erp data for free public download](http://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
+* [EEG studies with the raw data](http://www.studycatalog.org/)
