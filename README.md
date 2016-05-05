@@ -13,6 +13,7 @@
 - [Blogs](#blogs)
 - [Forum](#forum)
 - [Devices](#devices)
+- [Open Source BCI Project](#open-source-bci-projects)
 - [Introductory Books](#introductory-books)
 - [Technical Books](#technical-books)
 - [Signal Processing](#signal-processing)
@@ -88,6 +89,9 @@
 * [Mattel Mindflex](https://en.wikipedia.org/wiki/Mindflex)
 * [TI ADS1299EEG-FE](http://www.ti.com/tool/ads1299eegfe-pdk)
 * [OpenEEG](http://openeeg.sourceforge.net/doc/)
+
+## Open Source BCI Projects
+* [Controlling a sphero with a muse](https://github.com/neuralcubes/musephero)
 
 ## Introductory Books
 * [Beyond Boundaries (Nicolellis)](http://www.amazon.com/Beyond-Boundaries-Neuroscience-Connecting-Machines/dp/1250002613)
