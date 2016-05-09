@@ -60,6 +60,7 @@
 - [Kaggle Seizure Detection](https://www.kaggle.com/c/seizure-detection)
 - [Decoding Brain Signals](https://gallery.cortanaintelligence.com/Competition/Decoding-Brain-Signals-2)
 - [BCI Competition](http://www.bbci.de/competition/iv/)
+- [Brain Drone Competition](http://braindronerace.com/)
 
 ## Papers
 
