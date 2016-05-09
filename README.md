@@ -89,6 +89,8 @@
 * [Mattel Mindflex](https://en.wikipedia.org/wiki/Mindflex)
 * [TI ADS1299EEG-FE](http://www.ti.com/tool/ads1299eegfe-pdk)
 * [OpenEEG](http://openeeg.sourceforge.net/doc/)
+* [iWinks](https://iwinks.org/)
+* [The Aware](https://www.kickstarter.com/projects/efitaware/the-aware-kickstart-the-hearable-revolution/)
 
 ## Open Source BCI Projects
 * [Controlling a sphero with a muse](https://github.com/neuralcubes/musephero)
