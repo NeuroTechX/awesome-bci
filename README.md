@@ -13,6 +13,7 @@
 - [Blogs](#blogs)
 - [Forum](#forum)
 - [Devices](#devices)
+- [EEG Parts](#eeg-parts)
 - [Open Source BCI Project](#open-source-bci-projects)
 - [Introductory Books](#introductory-books)
 - [Technical Books](#technical-books)
@@ -92,6 +93,10 @@
 * [OpenEEG](http://openeeg.sourceforge.net/doc/)
 * [iWinks](https://iwinks.org/)
 * [The Aware](https://www.kickstarter.com/projects/efitaware/the-aware-kickstart-the-hearable-revolution/)
+
+## EEG Parts
+* [Florida Research Instruments](http://fri-fl-shop.com/)
+
 
 ## Open Source BCI Projects
 * [Controlling a sphero with a muse](https://github.com/neuralcubes/musephero)
