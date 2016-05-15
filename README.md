@@ -93,6 +93,7 @@
 * [OpenEEG](http://openeeg.sourceforge.net/doc/)
 * [iWinks](https://iwinks.org/)
 * [The Aware](https://www.kickstarter.com/projects/efitaware/the-aware-kickstart-the-hearable-revolution/)
+* [Puzzlebox](https://github.com/PuzzleboxIO)
 
 ## EEG Parts
 * [Florida Research Instruments](http://fri-fl-shop.com/)
