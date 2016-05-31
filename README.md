@@ -94,6 +94,7 @@
 * [iWinks](https://iwinks.org/)
 * [The Aware](https://www.kickstarter.com/projects/efitaware/the-aware-kickstart-the-hearable-revolution/)
 * [Puzzlebox](https://github.com/PuzzleboxIO)
+* [ExBrain NIRS](http://hitachi-hightech.com/global/product_detail/?pn=ot_009)
 
 ## EEG Parts
 * [Florida Research Instruments](http://fri-fl-shop.com/)
