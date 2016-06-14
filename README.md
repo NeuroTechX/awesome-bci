@@ -17,6 +17,7 @@
 - [Open Source BCI Project](#open-source-bci-projects)
 - [Introductory Books](#introductory-books)
 - [Technical Books](#technical-books)
+- [Events](#events)
 - [Signal Processing](#signal-processing)
 - [Brain Databases](#brain-databases)
 
@@ -120,7 +121,7 @@
 ## Events
 * [**List**: Curated list of events (BCI Society)](http://bcisociety.org/events/)
 * [BCI Meeting](http://bcisociety.org/meetings/bci-meeting-2016-welcome/)
-* [NeuroGaming / XTech](http://www.neurogamingconf.com/)[Youtube Videos](https://www.youtube.com/user/NeuroGamingCon/videos)
+* [NeuroGaming / XTech](http://www.neurogamingconf.com/)[(Youtube Videos)](https://www.youtube.com/user/NeuroGamingCon/videos)
 * [CHI](https://chi2016.acm.org/wp/)
 * [Cybathlon](http://www.cybathlon.ethz.ch/)
 * [BrainTech](http://conference.israelbrain.org/)
