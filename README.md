@@ -120,7 +120,7 @@
 ## Events
 * [**List**: Curated list of events (BCI Society)](http://bcisociety.org/events/)
 * [BCI Meeting](http://bcisociety.org/meetings/bci-meeting-2016-welcome/)
-* [NeuroGaming / XTech](http://www.neurogamingconf.com/)
+* [NeuroGaming / XTech](http://www.neurogamingconf.com/)[Youtube Videos](https://www.youtube.com/user/NeuroGamingCon/videos)
 * [CHI](https://chi2016.acm.org/wp/)
 * [Cybathlon](http://www.cybathlon.ethz.ch/)
 * [BrainTech](http://conference.israelbrain.org/)
