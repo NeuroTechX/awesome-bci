@@ -103,6 +103,7 @@
 
 ## Open Source BCI Projects
 * [Controlling a sphero with a muse](https://github.com/neuralcubes/musephero)
+* [Smartphone BCI](https://github.com/capitancambio/smartphone-bci)
 
 ## Introductory Books
 * [Beyond Boundaries (Nicolellis)](http://www.amazon.com/Beyond-Boundaries-Neuroscience-Connecting-Machines/dp/1250002613)
