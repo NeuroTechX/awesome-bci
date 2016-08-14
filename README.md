@@ -30,6 +30,7 @@
 - [BrainBay](http://www.shifz.org/brainbay/)
 - [FieldTrip](http://www.fieldtriptoolbox.org/)
 - [Thunder](https://github.com/thunder-project/thunder)
+- [EventIDE](http://okazolab.com/)
  
 ## Protocols
 
