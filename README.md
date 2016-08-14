@@ -104,6 +104,7 @@
 ## Open Source BCI Projects
 * [Controlling a sphero with a muse](https://github.com/neuralcubes/musephero)
 * [Building a 20 Euro EEG for your smartphone](https://jmanart.github.io/smartphone-bci-hardware/)
+* [Muse File Reader for OpenVibe](http://openvibe.inria.fr/forum/viewtopic.php?f=3&t=9668)
 
 ## Introductory Books
 * [Beyond Boundaries (Nicolellis)](http://www.amazon.com/Beyond-Boundaries-Neuroscience-Connecting-Machines/dp/1250002613)
