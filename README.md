@@ -143,5 +143,5 @@
 ## Brain Databases
 
 * [SCCN list of eeg/erp data for free public download](http://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
-* [EEG studies with the raw data](http://www.studycatalog.org/) [From BigEEG Consortium](http://www.bigeeg.org/)
+* [EEG studies with the raw data](http://www.studycatalog.org/) - [(from BigEEG Consortium)](http://www.bigeeg.org/)
 * [BNCI Horizon Data Sets](http://bnci-horizon-2020.eu/database/data-sets)
