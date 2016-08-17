@@ -138,7 +138,7 @@
 * Berkeley DSP class [lectures](https://www.youtube.com/watch?v=6_-ljdxjwac&list=PL-XXv-cvA_iCUQkarn2fxB3NggnPF_dob), [page](https://inst.eecs.berkeley.edu/~ee123/sp15/)
 * [Signals & Systems (Oppenheim, Willsky, Hamid)](http://www.amazon.com/Signals-Systems-Edition-Alan-Oppenheim/dp/0138147574)
 * [Discrete-Time Signal Processing (2nd Edition) (Oppenheim, Schafer, Buck)](http://www.amazon.com/Discrete-Time-Signal-Processing-Edition-Prentice-Hall/dp/0137549202)
- 
+* [Data analysis lecturelets (Mike X Cohen)](http://www.mikexcohen.com/lectures.html)
 
 ## Brain Databases
 
