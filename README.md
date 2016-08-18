@@ -28,6 +28,7 @@
 - [BCILab](http://sccn.ucsd.edu/wiki/BCILAB)
 - [BCI2000](http://www.schalklab.org/research/bci2000)
 - [BrainBay](http://www.shifz.org/brainbay/)
+- [Brainstorm](http://neuroimage.usc.edu/brainstorm/)
 - [FieldTrip](http://www.fieldtriptoolbox.org/)
 - [Thunder](https://github.com/thunder-project/thunder)
 - [EventIDE](http://okazolab.com/)
