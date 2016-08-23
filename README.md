@@ -98,6 +98,12 @@
 * [The Aware](https://www.kickstarter.com/projects/efitaware/the-aware-kickstart-the-hearable-revolution/)
 * [Puzzlebox](https://github.com/PuzzleboxIO)
 * [ExBrain NIRS](http://hitachi-hightech.com/global/product_detail/?pn=ot_009)
+* [Artinis Oxymon](http://www.artinis.com/oxymon/)
+* [Shimadzu LABNIRS](http://www.shimadzu.com/an/lifescience/imaging/nirs/nirs_top.html)
+* [Hitachi WOT-100](http://www.hitachi-hightech.com/global/product_detail/?pn=ot_001)
+* [NIRx](http://nirx.net/)
+* [g.BCIsys](http://www.gtec.at/Products/Complete-Solutions/g.BCIsys-Specs-Features)
+* [EGI High Density EEG](https://www.egi.com/)
 
 ## EEG Parts
 * [Florida Research Instruments](http://fri-fl-shop.com/)
