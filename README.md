@@ -114,6 +114,7 @@
 * [iWinks](https://iwinks.org/)
 
 ## Open Source BCI Projects
+* [Brainwave Analyzer](https://github.com/katie356/BrainwaveAnalyzer/tree/master/web-edition)
 * [Controlling a sphero with a muse](https://github.com/neuralcubes/musephero)
 * [Building a 20 Euro EEG for your smartphone](https://jmanart.github.io/smartphone-bci-hardware/)
 * [Muse File Reader for OpenVibe](http://openvibe.inria.fr/forum/viewtopic.php?f=3&t=9668)
