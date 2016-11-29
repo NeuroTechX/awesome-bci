@@ -34,6 +34,10 @@
 - [FieldTrip](http://www.fieldtriptoolbox.org/)
 - [Thunder](https://github.com/thunder-project/thunder)
 - [EventIDE](http://okazolab.com/)
+- [BBCI](https://github.com/bbci/bbci_public)
+- [Pyff](https://github.com/bbci/pyff)
+- [Mushu](https://github.com/bbci/mushu)
+- [Wyrm](https://github.com/bbci/wyrm)
  
 ## Protocols
 
@@ -74,6 +78,10 @@
 - [A New Generation of Brain-Computer Interface Based on Riemannian Geometry](https://www.researchgate.net/publication/258144410_A_New_Generation_of_Brain-Computer_Interface_Based_on_Riemannian_Geometry)
 - [My Virtual Dream: Collective Neurofeedback in an Immersive Art Environment ](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130129)
 - [BCI Competition IV – Data Set I: Learning Discriminative Patterns for Self-Paced EEG-Based Motor Imagery Detection](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3272647/)
+- [Single-Trial Analysis and Classification of ERP Components – a Tutorial](http://doc.ml.tu-berlin.de/bbci/publications/BlaLemTreHauMue10.pdf)
+- [Interpretable Deep Neural Networks for Single-Trial EEG Classification](https://www.researchgate.net/publication/301817936_Interpretable_Deep_Neural_Networks_for_Single-Trial_EEG_Classification)
+- [Large-Scale Assessment of a Fully Automatic Co-Adaptive Motor Imagery-Based Brain Computer Interface](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148886)
+
 
 ## Blogs
 
