@@ -11,8 +11,9 @@
 - [Competitions](#competitions)
 - [Papers](#papers)
 - [Blogs](#blogs)
-- [Forum](#forum)
-- [Devices](#devices)
+- [Forum](#forums)
+- [EEG Devices](#eeg-devices)
+- [NIRS Devices](#nirs-devices)
 - [EEG Parts](#eeg-parts)
 - [Open Source BCI Project](#open-source-bci-projects)
 - [Introductory Books](#introductory-books)
@@ -20,6 +21,7 @@
 - [Events](#events)
 - [Signal Processing](#signal-processing)
 - [Brain Databases](#brain-databases)
+- [Other Resources](#other-resources)
 
 ## Full Platforms
 
@@ -32,6 +34,10 @@
 - [FieldTrip](http://www.fieldtriptoolbox.org/)
 - [Thunder](https://github.com/thunder-project/thunder)
 - [EventIDE](http://okazolab.com/)
+- [BBCI](https://github.com/bbci/bbci_public)
+- [Pyff](https://github.com/bbci/pyff)
+- [Mushu](https://github.com/bbci/mushu)
+- [Wyrm](https://github.com/bbci/wyrm)
  
 ## Protocols
 
@@ -72,6 +78,10 @@
 - [A New Generation of Brain-Computer Interface Based on Riemannian Geometry](https://www.researchgate.net/publication/258144410_A_New_Generation_of_Brain-Computer_Interface_Based_on_Riemannian_Geometry)
 - [My Virtual Dream: Collective Neurofeedback in an Immersive Art Environment ](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130129)
 - [BCI Competition IV – Data Set I: Learning Discriminative Patterns for Self-Paced EEG-Based Motor Imagery Detection](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3272647/)
+- [Single-Trial Analysis and Classification of ERP Components – a Tutorial](http://doc.ml.tu-berlin.de/bbci/publications/BlaLemTreHauMue10.pdf)
+- [Interpretable Deep Neural Networks for Single-Trial EEG Classification](https://www.researchgate.net/publication/301817936_Interpretable_Deep_Neural_Networks_for_Single-Trial_EEG_Classification)
+- [Large-Scale Assessment of a Fully Automatic Co-Adaptive Motor Imagery-Based Brain Computer Interface](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148886)
+
 
 ## Blogs
 
@@ -85,29 +95,31 @@
 * [NeuroBB](https://neurobb.com/)
 * [OpenBCI Community](http://openbci.com/community/)
 
-## Devices
+## EEG Devices
 * [OpenBCI](http://openbci.com)
 * [Muse](http://www.choosemuse.com/)
-* [Emotiv EPOC](https://emotiv.com/epoc.php)
-* [Emotive Insight](https://emotiv.com/insight.php)
+* [Emotiv EPOC](https://emotiv.com/epoc.php) & [Insight](https://emotiv.com/insight.php)
 * [Neurosky](http://neurosky.com/)
 * [Mattel Mindflex](https://en.wikipedia.org/wiki/Mindflex)
-* [TI ADS1299EEG-FE](http://www.ti.com/tool/ads1299eegfe-pdk)
 * [OpenEEG](http://openeeg.sourceforge.net/doc/)
-* [iWinks](https://iwinks.org/)
 * [The Aware](https://www.kickstarter.com/projects/efitaware/the-aware-kickstart-the-hearable-revolution/)
-* [Puzzlebox](https://github.com/PuzzleboxIO)
+* [g.BCIsys](http://www.gtec.at/Products/Complete-Solutions/g.BCIsys-Specs-Features)
+* [EGI High Density EEG](https://www.egi.com/)
+
+## NIRS Devices
 * [ExBrain NIRS](http://hitachi-hightech.com/global/product_detail/?pn=ot_009)
 * [Artinis Oxymon](http://www.artinis.com/oxymon/)
 * [Shimadzu LABNIRS](http://www.shimadzu.com/an/lifescience/imaging/nirs/nirs_top.html)
 * [Hitachi WOT-100](http://www.hitachi-hightech.com/global/product_detail/?pn=ot_001)
 * [NIRx](http://nirx.net/)
-* [g.BCIsys](http://www.gtec.at/Products/Complete-Solutions/g.BCIsys-Specs-Features)
-* [EGI High Density EEG](https://www.egi.com/)
 
 ## EEG Parts
 * [Florida Research Instruments](http://fri-fl-shop.com/)
+* [TI ADS1299EEG-FE](http://www.ti.com/tool/ads1299eegfe-pdk)
 
+## BCI Products
+* [Puzzlebox](https://github.com/PuzzleboxIO)
+* [iWinks](https://iwinks.org/)
 
 ## Open Source BCI Projects
 * [Controlling a sphero with a muse](https://github.com/neuralcubes/musephero)
@@ -152,3 +164,7 @@
 * [SCCN list of eeg/erp data for free public download](http://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
 * [EEG studies with the raw data](http://www.studycatalog.org/) - [(from BigEEG Consortium)](http://www.bigeeg.org/)
 * [BNCI Horizon Data Sets](http://bnci-horizon-2020.eu/database/data-sets)
+
+## Other Resources
+
+* [Brede Wiki](http://neuro.compute.dtu.dk/wiki/Main_Page)
