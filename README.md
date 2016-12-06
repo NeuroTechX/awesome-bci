@@ -8,6 +8,7 @@
   * [Stand Alone Applications](#stand-alone-applications)
   * [Matlab Toolboxes](#matlab-toolboxes)
   * [Python Toolboxes](#python-toolboxes)
+  * [Brain Visualizations](#brain-visualizations)
   * [RaspberryPi Framework](#raspberrypi-framework)
   * [Communication Protocols](#communication-protocols)
 2. [Hardware](#hardware)
@@ -37,7 +38,7 @@
 ## Software
 
 
-### Stand Alone Applications
+### Stand Alone BCI Applications
 
 These applications do not require any form of dependies for it to work. Essentially download the program, install it, and you are good to go!
 
@@ -65,6 +66,12 @@ These applications do not require any form of dependies for it to work. Essentia
 * [Python MNE](http://martinos.org/mne/stable/index.html)
 * [OpenNFB](https://github.com/strfry/OpenNFB)
 * [bcikit](https://github.com/octopicorn/bcikit)
+* [PsychoPy](http://www.psychopy.org/)
+
+### Brain Visualizations
+
+* [BrainBox](http://brainbox.pasteur.fr/)
+* [BrainBrowser](https://brainbrowser.cbrain.mcgill.ca/)
 
 ### RaspberryPi Framework
 
