@@ -54,6 +54,7 @@ These applications do not require any form of dependies for it to work. Essentia
 * [FieldTrip](http://www.fieldtriptoolbox.org/)
 * [BCILab](http://sccn.ucsd.edu/wiki/BCILAB)
 * [BBCI](https://github.com/bbci/bbci_public)
+* [ERPLAB](http://erpinfo.org/erplab)
 
 ### Python Toolboxes
 
