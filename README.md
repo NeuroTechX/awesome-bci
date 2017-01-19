@@ -142,6 +142,7 @@ These are some of the commonly used Communication protocols
 * [Controlling a sphero with a muse](https://github.com/neuralcubes/musephero)
 * [Building a 20 Euro EEG for your smartphone](https://jmanart.github.io/smartphone-bci-hardware/)
 * [Muse File Reader for OpenVibe](http://openvibe.inria.fr/forum/viewtopic.php?f=3&t=9668)
+* [EEG 101: Interactive tutorial for Android and Muse](https://github.com/NeuroTechX/eeg-101)
 
 ## Communities and Blogs
 
