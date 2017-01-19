@@ -132,6 +132,7 @@ These are some of the commonly used Communication protocols
 * [EEG studies with the raw data](http://www.studycatalog.org/) - [(from BigEEG Consortium)](http://www.bigeeg.org/)
 * [BNCI Horizon Data Sets](http://bnci-horizon-2020.eu/database/data-sets)
 * [g.tec biosignal Data Sets](http://www.gtec.at/Research/Biosignal-Data-Sets/content/Biosignal-Data-Sets)
+* [The Child Mind Institute MIPDB Dataset](http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/)
 
 ## Tutorials and Project Ideas
 
