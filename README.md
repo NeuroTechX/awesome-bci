@@ -226,6 +226,6 @@ These are some of the commonly used Communication protocols
 
 
 ## Other Resources
-
+* [Neuroscience Summer Schools](https://github.com/PhABC/neuroSummerSchools/blob/master/README.md)
 * [Brede Wiki](http://neuro.compute.dtu.dk/wiki/Main_Page)
 
