@@ -163,6 +163,9 @@ These are some of the commonly used Communication protocols
 - [Fabien Lotte](https://sites.google.com/site/fabienlotte/code-and-softwares)
 - [Chip Audette EEG Hacker](http://eeghacker.blogspot.ca/)
 - [Atlants Embedded](http://www.atlantsembedded.com/blog)
+- [Alexandre Barachant](http://alexandre.barachant.org/)
+- [Pierre Karashchuk](http://lambdaloop.com/)
+- [Jeremy Frey](http://phd.jfrey.info/)
 
 ## Competitions
 
