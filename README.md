@@ -1,6 +1,8 @@
-# NeuroTechX's Awesome List of BCI-related Resources 
+# NeuroTechEDU's Awesome List of BCI-related Resources 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+This list of resources is non-exhaustive. If you find something which you think should be included, please add it!If you have never worked with Markdown before, check out this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).  
 
 ## Table of Contents
 
