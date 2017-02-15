@@ -148,6 +148,7 @@ These are some of the commonly used Communication protocols
 * [Muse File Reader for OpenVibe](http://openvibe.inria.fr/forum/viewtopic.php?f=3&t=9668)
 * [EEG 101: Interactive tutorial for Android and Muse](https://github.com/NeuroTechX/eeg-101)
 * [Brainwave analyzer](https://github.com/katie356/BrainwaveAnalyzer/tree/master/web-edition)
+* [BCI Course offered by Columbia University](http://naplab.ee.columbia.edu/bcilab.html)
 
 ## Communities and Blogs
 
