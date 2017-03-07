@@ -14,12 +14,14 @@ This list of resources is non-exhaustive. If you find something which you think 
   * [RaspberryPi Framework](#raspberrypi-framework)
   * [Communication Protocols](#communication-protocols)
 2. [Hardware](#hardware)
-  * [Consumer EEG Devices](#consumer-eeg-devices)
-  * [Research EEG Devices](#research-eeg-devices)
-  * [EEG Parts](#eeg-parts)
-  * [BCI Products](#bci-products)
-  * [NIRS Devices](#nirs-devices)
-  * [Upcoming-NeuroImaging-Tech](#upcoming-neuroimaging-tech)
+  * [EEG](#eeg)
+    * [Consumer EEG Devices](#consumer-eeg-devices)
+    * [Research EEG Devices](#research-eeg-devices)
+    * [EEG Parts](#eeg-parts)
+    * [BCI Products](#bci-products)
+  * [NIRS Devices](#nirs)
+  * [Multimodal Neurotech](#multimodal] 
+  * [Upcoming NeuroImaging Tech](#upcoming-neuroimaging-tech)
 3. [Brain Databases](#brain-databases)
 4. [Tutorials and Project Ideas](#tutorials-and-project-ideas)
 4. [Communities and Blogs](#communities-and-blogs)
@@ -89,40 +91,54 @@ These are some of the commonly used Communication protocols
  
 
 ## Hardware
+This section is separated into different sections based on the type of technology. 
 
-### Consumer EEG Devices
+### EEG
+[Electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography) is the most commonly used form of Neurotechnology. There are many options out there meaning that you can easily find a device that matches your needs and price.
+
+#### Consumer Devices
 * [OpenBCI](http://openbci.com)
-* [Muse](http://www.choosemuse.com/)
 * [Emotiv EPOC](https://emotiv.com/epoc.php) & [Insight](https://emotiv.com/insight.php)
 * [Emotiv Insight](https://www.emotiv.com/insight/)
 * [Neurosky](http://neurosky.com/)
 * [OpenEEG](http://openeeg.sourceforge.net/doc/)
 
-### Research EEG Devices
+#### Research Devices
 
 * [g.BCIsys](http://www.gtec.at/Products/Complete-Solutions/g.BCIsys-Specs-Features)
 * [EGI High Density EEG](https://www.egi.com/)
+* [Biosemi](http://www.biosemi.com/)
+* [ANT Neuro](https://www.ant-neuro.com)
+* [Advanced Brain Monitoring](http://www.advancedbrainmonitoring.com)
 
 
-### EEG Parts
+#### EEG Parts
 * [Florida Research Instruments](http://fri-fl-shop.com/)
 * [TI ADS1299EEG-FE](http://www.ti.com/tool/ads1299eegfe-pdk)
 * [DIY Electrode Design](https://oshpark.com/shared_projects/h2i1xBaW)
 * [Comparison of different types of electrodes](http://www.sciencedirect.com/science/article/pii/S1388245704003906)
 
-### BCI Products
+#### EEG BCI Products
+These devices use different brain signals for specific use cases (Such as sleeping, controlling a toy, etc). 
+* [Muse](http://www.choosemuse.com/)
 * [Puzzlebox](https://github.com/PuzzleboxIO)
 * [iWinks](https://iwinks.org/)
 * [Mattel Mindflex](https://en.wikipedia.org/wiki/Mindflex)
 * [The Aware](https://www.kickstarter.com/projects/efitaware/the-aware-kickstart-the-hearable-revolution/)
 
 
-### NIRS Devices
+### NIRS 
 * [ExBrain NIRS](http://hitachi-hightech.com/global/product_detail/?pn=ot_009)
 * [Artinis Oxymon](http://www.artinis.com/oxymon/)
 * [Shimadzu LABNIRS](http://www.shimadzu.com/an/lifescience/imaging/nirs/nirs_top.html)
 * [Hitachi WOT-100](http://www.hitachi-hightech.com/global/product_detail/?pn=ot_001)
 * [NIRx](http://nirx.net/)
+
+### Multimodal Neurotech 
+These decvices combine different type of sensors to measure or influence brain activity. 
+* [Foc.us Dev kit: EEG,TDCS,fNIRS,TACS](https://world.foc.us/eeg)
+* [Neuroelectrics: EEG,TDCS](http://www.neuroelectrics.com/)
+* [BITalino: EEG,EMG,ECG,EDA](http://www.bitalino.com/)
 
 ### Upcoming NeuroImaging Tech
 
