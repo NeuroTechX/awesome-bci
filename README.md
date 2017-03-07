@@ -17,10 +17,10 @@ This list of resources is non-exhaustive. If you find something which you think 
   * [EEG](#eeg)
     * [Consumer EEG Devices](#consumer-eeg-devices)
     * [Research EEG Devices](#research-eeg-devices)
-    * [EEG Parts](#eeg-parts)
     * [BCI Products](#bci-products)
+    * [EEG Parts](#eeg-parts)
   * [NIRS Devices](#nirs)
-  * [Multimodal Neurotech](#multimodal] 
+  * [Multimodal Neurotech](#multimodal-neurotech] 
   * [Upcoming NeuroImaging Tech](#upcoming-neuroimaging-tech)
 3. [Brain Databases](#brain-databases)
 4. [Tutorials and Project Ideas](#tutorials-and-project-ideas)
@@ -111,13 +111,6 @@ This section is separated into different sections based on the type of technolog
 * [ANT Neuro](https://www.ant-neuro.com)
 * [Advanced Brain Monitoring](http://www.advancedbrainmonitoring.com)
 
-
-#### EEG Parts
-* [Florida Research Instruments](http://fri-fl-shop.com/)
-* [TI ADS1299EEG-FE](http://www.ti.com/tool/ads1299eegfe-pdk)
-* [DIY Electrode Design](https://oshpark.com/shared_projects/h2i1xBaW)
-* [Comparison of different types of electrodes](http://www.sciencedirect.com/science/article/pii/S1388245704003906)
-
 #### EEG BCI Products
 These devices use different brain signals for specific use cases (Such as sleeping, controlling a toy, etc). 
 * [Muse](http://www.choosemuse.com/)
@@ -125,6 +118,13 @@ These devices use different brain signals for specific use cases (Such as sleepi
 * [iWinks](https://iwinks.org/)
 * [Mattel Mindflex](https://en.wikipedia.org/wiki/Mindflex)
 * [The Aware](https://www.kickstarter.com/projects/efitaware/the-aware-kickstart-the-hearable-revolution/)
+
+
+#### EEG Parts
+* [Florida Research Instruments](http://fri-fl-shop.com/)
+* [TI ADS1299EEG-FE](http://www.ti.com/tool/ads1299eegfe-pdk)
+* [DIY Electrode Design](https://oshpark.com/shared_projects/h2i1xBaW)
+* [Comparison of different types of electrodes](http://www.sciencedirect.com/science/article/pii/S1388245704003906)
 
 
 ### NIRS 
