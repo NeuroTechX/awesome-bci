@@ -107,6 +107,7 @@ These are some of the commonly used Communication protocols
 ### EEG Parts
 * [Florida Research Instruments](http://fri-fl-shop.com/)
 * [TI ADS1299EEG-FE](http://www.ti.com/tool/ads1299eegfe-pdk)
+* [DIY Electrode Design](https://oshpark.com/shared_projects/h2i1xBaW)
 * [Comparison of different types of electrodes](http://www.sciencedirect.com/science/article/pii/S1388245704003906)
 
 ### BCI Products
