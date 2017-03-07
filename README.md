@@ -15,12 +15,12 @@ This list of resources is non-exhaustive. If you find something which you think 
   * [Communication Protocols](#communication-protocols)
 2. [Hardware](#hardware)
   * [EEG](#eeg)
-    * [Consumer EEG Devices](#consumer-eeg-devices)
-    * [Research EEG Devices](#research-eeg-devices)
-    * [BCI Products](#bci-products)
+    * [Consumer EEG Devices](#consumer-devices)
+    * [Research EEG Devices](#research-devices)
+    * [BCI Products](#eeg-bci-products)
     * [EEG Parts](#eeg-parts)
   * [NIRS Devices](#nirs)
-  * [Multimodal Neurotech](#multimodal-neurotech] 
+  * [Multimodal Neurotech](#Multimodal-Neurotech] 
   * [Upcoming NeuroImaging Tech](#upcoming-neuroimaging-tech)
 3. [Brain Databases](#brain-databases)
 4. [Tutorials and Project Ideas](#tutorials-and-project-ideas)
@@ -135,7 +135,7 @@ These devices use different brain signals for specific use cases (Such as sleepi
 * [NIRx](http://nirx.net/)
 
 ### Multimodal Neurotech 
-These decvices combine different type of sensors to measure or influence brain activity. 
+These devices combine different type of sensors to measure or influence brain activity. 
 * [Foc.us Dev kit: EEG,TDCS,fNIRS,TACS](https://world.foc.us/eeg)
 * [Neuroelectrics: EEG,TDCS](http://www.neuroelectrics.com/)
 * [BITalino: EEG,EMG,ECG,EDA](http://www.bitalino.com/)
