@@ -15,7 +15,7 @@ This list of resources is non-exhaustive. If you find something which you think 
   * [Communication Protocols](#communication-protocols)
 2. [Hardware](#hardware)
   * [EEG](#eeg)
-    * [Consumer EEG Devices](#consumer-devices)
+    * [Consumer and DIY EEG Devices](#consumer-devices)
     * [Research EEG Devices](#research-devices)
     * [BCI Products](#eeg-bci-products)
     * [EEG Parts](#eeg-parts)
@@ -96,12 +96,13 @@ This section is separated into different sections based on the type of technolog
 ### EEG
 [Electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography) is the most commonly used form of Neurotechnology. There are many options out there meaning that you can easily find a device that matches your needs and price.
 
-#### Consumer Devices
+#### Consumer and DIY Devices
 * [OpenBCI](http://openbci.com)
 * [Emotiv EPOC](https://emotiv.com/epoc.php) & [Insight](https://emotiv.com/insight.php)
 * [Emotiv Insight](https://www.emotiv.com/insight/)
 * [Neurosky](http://neurosky.com/)
 * [OpenEEG](http://openeeg.sourceforge.net/doc/)
+* [EEG-SMT by Olimex](https://bakerdh.wordpress.com/2013/01/31/a-first-look-at-the-olimex-eeg-smt/)
 
 #### Research Devices
 
