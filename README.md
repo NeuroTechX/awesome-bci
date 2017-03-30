@@ -254,4 +254,5 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Neuroscience Summer Schools](https://github.com/PhABC/neuroSummerSchools/blob/master/README.md)
 * [Brede Wiki](http://neuro.compute.dtu.dk/wiki/Main_Page)
 * [Novel Neurotechnologies Intervening in the Brain](https://nuffieldbioethics.org/wp-content/uploads/2013/06/Novel_neurotechnologies_report_PDF_web_0.pdf)
+* [Augment Human Cognitition by optimizing cortical oscillations(Invasive)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072086/)
 
