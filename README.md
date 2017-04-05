@@ -128,12 +128,11 @@ These devices use different brain signals for specific use cases (Such as sleepi
 * [Comparison of different types of electrodes](http://www.sciencedirect.com/science/article/pii/S1388245704003906)
 
 
-### NIRS 
-* [ExBrain NIRS](http://hitachi-hightech.com/global/product_detail/?pn=ot_009)
-* [Artinis Oxymon](http://www.artinis.com/oxymon/)
-* [Shimadzu LABNIRS](http://www.shimadzu.com/an/lifescience/imaging/nirs/nirs_top.html)
-* [Hitachi WOT-100](http://www.hitachi-hightech.com/global/product_detail/?pn=ot_001)
+### NIRS Research Devices
+* [Artinis Medical Systems](http://www.artinis.com/)
+* [Hitachi Hightech](http://www.hitachi-hightech.com/global/product_list/?ld=iis1&md=iis1-6)
 * [NIRx](http://nirx.net/)
+* [Shimadzu](http://www.ssi.shimadzu.com/products/productgroup.cfm?subcatlink=tissueimaging)
 
 ### Multimodal Neurotech 
 These devices combine different type of sensors to measure or influence brain activity. 
