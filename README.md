@@ -103,6 +103,7 @@ This section is separated into different sections based on the type of technolog
 * [Neurosky](http://neurosky.com/)
 * [OpenEEG](http://openeeg.sourceforge.net/doc/)
 * [EEG-SMT by Olimex](https://bakerdh.wordpress.com/2013/01/31/a-first-look-at-the-olimex-eeg-smt/)
+* [FreeEEG32: an open source 32 channel eeg](https://hackaday.io/project/20618-freeeeg32-32-channels-electroencephalography)
 
 #### Research Devices
 
