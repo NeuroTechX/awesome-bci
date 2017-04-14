@@ -167,6 +167,7 @@ These devices combine different type of sensors to measure or influence brain ac
 * [EEG 101: Interactive tutorial for Android and Muse](https://github.com/NeuroTechX/eeg-101)
 * [Brainwave analyzer](https://github.com/katie356/BrainwaveAnalyzer/tree/master/web-edition)
 * [BCI Course offered by Columbia University](http://naplab.ee.columbia.edu/bcilab.html)
+* [BCI Course at Berkeley by Pierre of NeuroTechX](http://neurotechberkeley.org/course_schedule.html)
 
 ## Communities and Blogs
 
