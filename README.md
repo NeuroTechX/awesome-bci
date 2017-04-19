@@ -227,6 +227,7 @@ These devices combine different type of sensors to measure or influence brain ac
 - [Single-Trial Analysis and Classification of ERP Components – a Tutorial](http://doc.ml.tu-berlin.de/bbci/publications/BlaLemTreHauMue10.pdf)
 - [Interpretable Deep Neural Networks for Single-Trial EEG Classification](https://www.researchgate.net/publication/301817936_Interpretable_Deep_Neural_Networks_for_Single-Trial_EEG_Classification)
 - [Large-Scale Assessment of a Fully Automatic Co-Adaptive Motor Imagery-Based Brain Computer Interface](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148886)
+- [Word pair classification during imagined speech using direct brain recording](http://knightlab.berkeley.edu/statics/publications/2016/10/03/srep25803.pdf)
 
 
 ### Introductory Books
