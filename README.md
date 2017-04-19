@@ -146,6 +146,7 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Functional Ultrasound](http://fultrasound.eu/)
 * [Event Related Optical Signal](https://en.wikipedia.org/wiki/Event-related_optical_signal)
 * [Diffuse optical imaging](https://en.wikipedia.org/wiki/Diffuse_optical_imaging)
+* [Quasi-Ballistic Photons. (The Tech being used by Facebook's BCI)](https://arxiv.org/pdf/cond-mat/9906188.pdf)
 
 ## Brain Databases
 
@@ -241,6 +242,7 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Analyzing Neural Time Series Data (Cohen)](https://mitpress.mit.edu/books/analyzing-neural-time-series-data)
 * [Imaging Brain Function with EEG (Freeman & Quiroga)](http://www.springer.com/us/book/9781461449836)
 * [Matlab for Neuroscientists](http://www.amazon.com/MATLAB-Neuroscientists-Introduction-Scientific-Computing/dp/0123745519)
+* [Biomedical Optics](https://books.google.ca/books?id=EJeQ0hAB76gC&pg=PR3&redir_esc=y#v=onepage&q&f=false)
 
 ### Signal Processing
 
