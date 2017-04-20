@@ -146,6 +146,7 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Functional Ultrasound](http://fultrasound.eu/)
 * [Event Related Optical Signal](https://en.wikipedia.org/wiki/Event-related_optical_signal)
 * [Diffuse optical imaging](https://en.wikipedia.org/wiki/Diffuse_optical_imaging)
+* [Event-Related Optical Signal](https://www.researchgate.net/publication/223360817_Shedding_light_on_brain_function_The_event-related_optical_signal) 
 * [Quasi-Ballistic Photons. (The Tech being used by Facebook's BCI)](https://arxiv.org/pdf/cond-mat/9906188.pdf)
 
 ## Brain Databases
