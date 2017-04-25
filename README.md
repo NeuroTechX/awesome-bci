@@ -143,11 +143,17 @@ These devices combine different type of sensors to measure or influence brain ac
 
 ### Upcoming NeuroImaging Tech
 
+
 * [Functional Ultrasound](http://fultrasound.eu/)
 * [Event Related Optical Signal](https://en.wikipedia.org/wiki/Event-related_optical_signal)
-* [Diffuse optical imaging](https://en.wikipedia.org/wiki/Diffuse_optical_imaging)
-* [Event-Related Optical Signal](https://www.researchgate.net/publication/223360817_Shedding_light_on_brain_function_The_event-related_optical_signal) 
+* [Event-Related Optical Signal](https://www.researchgate.net/publication/223360817_Shedding_light_on_brain_function_The_event-related_optical_signal)
 * [Quasi-Ballistic Photons. (The Tech being used by Facebook's BCI)](https://arxiv.org/pdf/cond-mat/9906188.pdf)
+
+Diffused Optical Imaging Ressources. This is the tech being used by Mary Lou Jepken's company [Openwater](https://www.opnwatr.io/). She's aiming to build a portable MRI.
+
+* [Diffuse optical imaging/ The tech being used by ](https://en.wikipedia.org/wiki/Diffuse_optical_imaging)
+* [Diffuse Optical Imaging pt. 2](https://drive.google.com/file/d/0B-G2rraXdWRlenk2U0QzbW9PdkU/view?usp=sharing)
+
 
 ## Brain Databases
 
