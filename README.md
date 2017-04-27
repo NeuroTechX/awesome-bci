@@ -19,7 +19,7 @@ This list of resources is non-exhaustive. If you find something which you think 
     * [Research EEG Devices](#research-devices)
     * [BCI Products](#eeg-bci-products)
     * [EEG Parts](#eeg-parts)
-  * [NIRS Devices](#nirs)
+  * [NIRS Devices](#nirs-research-devices)
   * [Multimodal Neurotech](#multimodal-neurotech) 
   * [Upcoming NeuroImaging Tech](#upcoming-neuroimaging-tech)
 3. [Brain Databases](#brain-databases)
