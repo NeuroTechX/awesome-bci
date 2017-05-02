@@ -162,6 +162,7 @@ Diffused Optical Imaging Ressources. This is the tech being used by Mary Lou Jep
 * [BNCI Horizon Data Sets](http://bnci-horizon-2020.eu/database/data-sets)
 * [g.tec biosignal Data Sets](http://www.gtec.at/Research/Biosignal-Data-Sets/content/Biosignal-Data-Sets)
 * [The Child Mind Institute MIPDB Dataset](http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/)
+* [RAM (DARPA) Invasive Recording Dataset from U. Penn](http://memory.psych.upenn.edu/RAM)
 
 ## Tutorials and Project Ideas
 
@@ -235,6 +236,7 @@ Diffused Optical Imaging Ressources. This is the tech being used by Mary Lou Jep
 - [Interpretable Deep Neural Networks for Single-Trial EEG Classification](https://www.researchgate.net/publication/301817936_Interpretable_Deep_Neural_Networks_for_Single-Trial_EEG_Classification)
 - [Large-Scale Assessment of a Fully Automatic Co-Adaptive Motor Imagery-Based Brain Computer Interface](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148886)
 - [Word pair classification during imagined speech using direct brain recording](http://knightlab.berkeley.edu/statics/publications/2016/10/03/srep25803.pdf)
+- [Brain-Computer Interfaces Review, Nicolelis & Lebedev. 2017](https://www.ncbi.nlm.nih.gov/pubmed/28275048)
 
 
 ### Introductory Books
