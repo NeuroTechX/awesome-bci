@@ -155,10 +155,6 @@ Diffused Optical Imaging Ressources. This is the tech being used by Mary Lou Jep
 * [Diffuse optical imaging/ The tech being used by ](https://en.wikipedia.org/wiki/Diffuse_optical_imaging)
 * [Diffuse Optical Imaging pt. 2](https://drive.google.com/file/d/0B-G2rraXdWRlenk2U0QzbW9PdkU/view?usp=sharing)
 
-## Consultants for hire
-
-* [Push The World](www.pushtheworld.us)
-
 ## Brain Databases
 
 * [SCCN list of eeg/erp data for free public download](http://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
@@ -167,6 +163,10 @@ Diffused Optical Imaging Ressources. This is the tech being used by Mary Lou Jep
 * [g.tec biosignal Data Sets](http://www.gtec.at/Research/Biosignal-Data-Sets/content/Biosignal-Data-Sets)
 * [The Child Mind Institute MIPDB Dataset](http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/)
 * [RAM (DARPA) Invasive Recording Dataset from U. Penn](http://memory.psych.upenn.edu/RAM)
+
+## Consultants for hire
+
+* [Push The World](www.pushtheworld.us)
 
 ## Tutorials and Project Ideas
 
