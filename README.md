@@ -23,20 +23,21 @@ This list of resources is non-exhaustive. If you find something which you think 
   * [Multimodal Neurotech](#multimodal-neurotech) 
   * [Upcoming NeuroImaging Tech](#upcoming-neuroimaging-tech)
 3. [Brain Databases](#brain-databases)
-4. [Tutorials and Project Ideas](#tutorials-and-project-ideas)
-4. [Communities and Blogs](#communities-and-blogs)
+4. [Consultants For Hire](#consultants-for-hire)
+5. [Tutorials and Project Ideas](#tutorials-and-project-ideas)
+6. [Communities and Blogs](#communities-and-blogs)
   * [Blogs](#blogs)
   * [Forum](#forums)
-5. [Competitions](#competitions)
+7. [Competitions](#competitions)
   * [Data Competitions](#data-competitions)  
   * [Brain Controlled Competitions](#brain-controlled-competitions)
-6. [Conferences and Events](#conferences-and-events)
-7. [Reading Material](#reading-material)
+8. [Conferences and Events](#conferences-and-events)
+9. [Reading Material](#reading-material)
   * [Papers](#papers)
   * [Introductory Books](#introductory-books)
   * [Technical Books](#technical-books)
   * [Signal Processing](#signal-processing)
-8. [Other Resources](#other-resources)
+10. [Other Resources](#other-resources)
 
 
 ## Software
@@ -154,6 +155,9 @@ Diffused Optical Imaging Ressources. This is the tech being used by Mary Lou Jep
 * [Diffuse optical imaging/ The tech being used by ](https://en.wikipedia.org/wiki/Diffuse_optical_imaging)
 * [Diffuse Optical Imaging pt. 2](https://drive.google.com/file/d/0B-G2rraXdWRlenk2U0QzbW9PdkU/view?usp=sharing)
 
+## Consultants for hire
+
+* [Push The World](www.pushtheworld.us)
 
 ## Brain Databases
 
