@@ -10,6 +10,7 @@ This list of resources is non-exhaustive. If you find something which you think 
   * [Stand Alone Applications](#stand-alone-applications)
   * [Matlab Toolboxes](#matlab-toolboxes)
   * [Python Toolboxes](#python-toolboxes)
+  * [Android Toolboxes](#android-toolboxes)
   * [Brain Visualizations](#brain-visualizations)
   * [RaspberryPi Framework](#raspberrypi-framework)
   * [Communication Protocols](#communication-protocols)
@@ -73,6 +74,10 @@ These applications do not require any form of dependies for it to work. Essentia
 * [OpenNFB](https://github.com/strfry/OpenNFB)
 * [bcikit](https://github.com/octopicorn/bcikit)
 * [PsychoPy](http://www.psychopy.org/)
+
+### Android Toolboxes
+
+* [EEG-101](https://github.com/NeuroTechX/eeg-101)
 
 ### Brain Visualizations
 
