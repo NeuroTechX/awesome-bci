@@ -61,6 +61,7 @@ These applications do not require any form of dependies for it to work. Essentia
 * [BCILab](http://sccn.ucsd.edu/wiki/BCILAB)
 * [BBCI](https://github.com/bbci/bbci_public)
 * [ERPLAB](http://erpinfo.org/erplab)
+* [Psychtoolbox](http://psychtoolbox.org)
 
 ### Python Toolboxes
 
@@ -248,6 +249,8 @@ Diffused Optical Imaging Ressources. This is the tech being used by Mary Lou Jep
 - [Large-Scale Assessment of a Fully Automatic Co-Adaptive Motor Imagery-Based Brain Computer Interface](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148886)
 - [Word pair classification during imagined speech using direct brain recording](http://knightlab.berkeley.edu/statics/publications/2016/10/03/srep25803.pdf)
 - [Brain-Computer Interfaces Review, Nicolelis & Lebedev. 2017](https://www.ncbi.nlm.nih.gov/pubmed/28275048)
+- [High-speed spelling with a noninvasive brain–computer interface](http://www.pnas.org/content/112/44/E6058.abstract)
+- [A high-speed brain-computer interface (BCI) using dry EEG electrodes](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0172400)
 
 
 ### Introductory Books
