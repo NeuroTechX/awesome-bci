@@ -186,7 +186,7 @@ Diffused Optical Imaging Ressources. This is the tech being used by Mary Lou Jep
 * [EEG 101: Interactive tutorial for Android and Muse](https://github.com/NeuroTechX/eeg-101)
 * [Brainwave analyzer](https://github.com/katie356/BrainwaveAnalyzer/tree/master/web-edition)
 * [BCI Course offered by Columbia University](http://naplab.ee.columbia.edu/bcilab.html)
-* [BCI Course at Berkeley by Pierre of NeuroTechX](http://neurotechberkeley.org/course_schedule.html)
+* [BCI Course at Berkeley by Pierre of NeuroTechX](https://github.com/NeurotechBerkeley/bci-course)
 * [EEG and MRI Course offered by OHBM](https://www.humanbrainmapping.org/m/pages.cfm?pageID=3814)
 
 ## Communities and Blogs
