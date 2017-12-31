@@ -156,6 +156,7 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Event Related Optical Signal](https://en.wikipedia.org/wiki/Event-related_optical_signal)
 * [Event-Related Optical Signal](https://www.researchgate.net/publication/223360817_Shedding_light_on_brain_function_The_event-related_optical_signal)
 * [Quasi-Ballistic Photons. (The Tech being used by Facebook's BCI)](https://arxiv.org/pdf/cond-mat/9906188.pdf)
+* [Open Electrical Impedance Tomography](https://github.com/OpenEIT/EIT_PCB)
 
 Diffused Optical Imaging Ressources. This is the tech being used by Mary Lou Jepken's company [Openwater](https://www.opnwatr.io/). She's aiming to build a portable MRI.
 
