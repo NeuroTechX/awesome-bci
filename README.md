@@ -269,6 +269,7 @@ Diffused Optical Imaging Ressources. This is the tech being used by Mary Lou Jep
 * [Imaging Brain Function with EEG (Freeman & Quiroga)](http://www.springer.com/us/book/9781461449836)
 * [Matlab for Neuroscientists](http://www.amazon.com/MATLAB-Neuroscientists-Introduction-Scientific-Computing/dp/0123745519)
 * [Biomedical Optics](https://books.google.ca/books?id=EJeQ0hAB76gC&pg=PR3&redir_esc=y#v=onepage&q&f=false)
+* [iMotions Top 10 EEG Books](https://imotions.com/blog/eeg-books/)
 
 ### Signal Processing
 
