@@ -1,4 +1,4 @@
-# NeuroTechEDU's Awesome List of BCI-related Resources 
+# NeuroTechEDU's Awesome List of BCI-related Resources
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -21,7 +21,7 @@ This list of resources is non-exhaustive. If you find something which you think 
     * [BCI Products](#eeg-bci-products)
     * [EEG Parts](#eeg-parts)
   * [NIRS Devices](#nirs-research-devices)
-  * [Multimodal Neurotech](#multimodal-neurotech) 
+  * [Multimodal Neurotech](#multimodal-neurotech)
   * [Upcoming NeuroImaging Tech](#upcoming-neuroimaging-tech)
 3. [Brain Databases](#brain-databases)
 4. [Consultants For Hire](#consultants-for-hire)
@@ -91,14 +91,14 @@ These applications do not require any form of dependies for it to work. Essentia
 
 ### Communication Protocols
 
-These are some of the commonly used Communication protocols 
+These are some of the commonly used Communication protocols
 
 * [Lab Streaming Layer](https://github.com/sccn/labstreaminglayer)
 * [Open Sound Control](http://www.opensoundcontrol.org/)
- 
+
 
 ## Hardware
-This section is separated into different sections based on the type of technology. 
+This section is separated into different sections based on the type of technology.
 
 ### EEG
 [Electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography) is the most commonly used form of Neurotechnology. There are many options out there meaning that you can easily find a device that matches your needs and price.
@@ -121,7 +121,7 @@ This section is separated into different sections based on the type of technolog
 * [Advanced Brain Monitoring](http://www.advancedbrainmonitoring.com)
 
 #### EEG BCI Products
-These devices use different brain signals for specific use cases (Such as sleeping, controlling a toy, etc). 
+These devices use different brain signals for specific use cases (Such as sleeping, controlling a toy, etc).
 * [Muse](http://www.choosemuse.com/)
 * [Puzzlebox](https://github.com/PuzzleboxIO)
 * [iWinks](https://iwinks.org/)
@@ -143,8 +143,8 @@ These devices use different brain signals for specific use cases (Such as sleepi
 * [NIRx](http://nirx.net/)
 * [Shimadzu](http://www.ssi.shimadzu.com/products/productgroup.cfm?subcatlink=tissueimaging)
 
-### Multimodal Neurotech 
-These devices combine different type of sensors to measure or influence brain activity. 
+### Multimodal Neurotech
+These devices combine different type of sensors to measure or influence brain activity.
 * [Foc.us Dev kit: EEG,TDCS,fNIRS,TACS](https://world.foc.us/eeg)
 * [Neuroelectrics: EEG,TDCS](http://www.neuroelectrics.com/)
 * [BITalino: EEG,EMG,ECG,EDA](http://www.bitalino.com/)
@@ -211,6 +211,7 @@ Diffused Optical Imaging Ressources. This is the tech being used by Mary Lou Jep
 - [Alexandre Barachant](http://alexandre.barachant.org/)
 - [Pierre Karashchuk](http://lambdaloop.com/)
 - [Jeremy Frey](http://phd.jfrey.info/)
+- [Irene Vigué Guix](http://www.irenevigueguix.com)
 
 ## Competitions
 
@@ -286,4 +287,3 @@ Diffused Optical Imaging Ressources. This is the tech being used by Mary Lou Jep
 * [Brede Wiki](http://neuro.compute.dtu.dk/wiki/Main_Page)
 * [Novel Neurotechnologies Intervening in the Brain](https://nuffieldbioethics.org/wp-content/uploads/2013/06/Novel_neurotechnologies_report_PDF_web_0.pdf)
 * [Augment Human Cognitition by optimizing cortical oscillations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072086/)
-
