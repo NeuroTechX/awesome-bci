@@ -211,6 +211,7 @@ Diffused Optical Imaging Ressources. This is the tech being used by Mary Lou Jep
 - [Alexandre Barachant](http://alexandre.barachant.org/)
 - [Pierre Karashchuk](http://lambdaloop.com/)
 - [Jeremy Frey](http://phd.jfrey.info/)
+- [Irene Vigué Guix](http://www.irenevigueguix.com)
 
 ## Competitions
 
