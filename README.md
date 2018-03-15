@@ -75,6 +75,7 @@ These applications do not require any form of dependies for it to work. Essentia
 * [OpenNFB](https://github.com/strfry/OpenNFB)
 * [bcikit](https://github.com/octopicorn/bcikit)
 * [PsychoPy](http://www.psychopy.org/)
+* [BioSPPy](https://github.com/PIA-Group/BioSPPy)
 
 ### Android Toolboxes
 
