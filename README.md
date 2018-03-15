@@ -113,7 +113,7 @@ This section is separated into different sections based on the type of technolog
 * [FreeEEG32: an open source 32 channel eeg](https://hackaday.io/project/20618-freeeeg32-32-channels-electroencephalography)
 
 #### Research Devices
-
+* [Wearable Sensing Dry Electrode EEG] (http://www.wearablesensing.com)
 * [g.BCIsys](http://www.gtec.at/Products/Complete-Solutions/g.BCIsys-Specs-Features)
 * [EGI High Density EEG](https://www.egi.com/)
 * [Biosemi](http://www.biosemi.com/)
