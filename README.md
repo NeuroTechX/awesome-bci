@@ -150,9 +150,11 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Neuroelectrics: EEG,TDCS](http://www.neuroelectrics.com/)
 * [BITalino: EEG,EMG,ECG,EDA](http://www.bitalino.com/)
 
+### Brain Stimulation
+* [DIY TMS](https://www.instructables.com/id/Transcranial-Magnetic-Stimulation-TMS-Device/)
+
+
 ### Upcoming NeuroImaging Tech
-
-
 * [Functional Ultrasound](http://fultrasound.eu/)
 * [FPGA Ultrasound Imaging on a Raspberry Pi ](http://un0rick.cc/FPGA-Rpi)
 * [Event Related Optical Signal](https://en.wikipedia.org/wiki/Event-related_optical_signal)
