@@ -80,6 +80,7 @@ These applications do not require any form of dependies for it to work. Essentia
 ### Android Toolboxes
 
 * [EEG-101](https://github.com/NeuroTechX/eeg-101)
+* [NeuroSky Android SDK](https://github.com/pwittchen/neurosky-android-sdk)
 
 ### Brain Visualizations
 
