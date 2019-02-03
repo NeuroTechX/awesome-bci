@@ -128,7 +128,7 @@ These devices use different brain signals for specific use cases (Such as sleepi
 * [Puzzlebox](https://github.com/PuzzleboxIO)
 * [iWinks](https://iwinks.org/)
 * [Mattel Mindflex](https://en.wikipedia.org/wiki/Mindflex)
-* [The Aware](https://www.kickstarter.com/projects/efitaware/the-aware-kickstart-the-hearable-revolution/)
+* ~~[The Aware](https://www.kickstarter.com/projects/efitaware/the-aware-kickstart-the-hearable-revolution/)~~ (inactive, failed kickstarter)
 
 
 #### EEG Parts
