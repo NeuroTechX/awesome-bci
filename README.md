@@ -178,6 +178,7 @@ Diffused Optical Imaging Ressources. This is the tech being used by Mary Lou Jep
 * [RAM (DARPA) Invasive Recording Dataset from U. Penn](http://memory.psych.upenn.edu/RAM)
 * [MindBigData MNIST of Brain Digits](http://mindbigdata.com/opendb/index.html)
 * [MindBigData ImageNet of The Brain](http://www.mindbigdata.com/opendb/imagenet.html)
+* [meagmohit's List of EEG Datasets](https://github.com/meagmohit/EEG-Datasets)
 
 ## Consultants For Hire
 
