@@ -46,7 +46,7 @@ This list of resources is non-exhaustive. If you find something which you think 
 
 ### Stand Alone BCI Applications
 
-These applications do not require any form of dependies for it to work. Essentially download the program, install it, and you are good to go!
+These applications do not require any form of dependencies for it to work. Essentially download the program, install it, and you are good to go!
 
 * [OpenVibe](http://openvibe.inria.fr/)
 * [BCI2000](http://www.schalklab.org/research/bci2000)
