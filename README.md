@@ -107,6 +107,7 @@ This section is separated into different sections based on the type of technolog
 
 #### Consumer and DIY Devices
 * [OpenBCI](http://openbci.com)
+* [icibici](https://icibici.github.io/site/)
 * [Emotiv EPOC](https://emotiv.com/epoc.php) & [Insight](https://emotiv.com/insight.php)
 * [Emotiv Insight](https://www.emotiv.com/insight/)
 * [Neurosky](http://neurosky.com/)
