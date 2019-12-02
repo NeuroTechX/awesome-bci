@@ -76,6 +76,7 @@ These applications do not require any form of dependencies for it to work. Essen
 * [bcikit](https://github.com/octopicorn/bcikit)
 * [PsychoPy](http://www.psychopy.org/)
 * [BioSPPy](https://github.com/PIA-Group/BioSPPy)
+* [BrainFlow Python SDK](https://github.com/Andrey1994/brainflow)
 
 ### Android Toolboxes
 
