@@ -116,7 +116,7 @@ This section is separated into different sections based on the type of technolog
 * [FreeEEG32: an open source 32 channel eeg](https://hackaday.io/project/20618-freeeeg32-32-channels-electroencephalography)
 * [Muse](https://choosemuse.com/)
 #### Research Devices
-* [Wearable Sensing Dry Electrode EEG] (http://www.wearablesensing.com)
+* [Wearable Sensing Dry Electrode EEG](http://www.wearablesensing.com)
 * [g.BCIsys](http://www.gtec.at/Products/Complete-Solutions/g.BCIsys-Specs-Features)
 * [EGI High Density EEG](https://www.egi.com/)
 * [Biosemi](http://www.biosemi.com/)
@@ -164,7 +164,8 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Quasi-Ballistic Photons. (The Tech being used by Facebook's BCI)](https://arxiv.org/pdf/cond-mat/9906188.pdf)
 * [Open Electrical Impedance Tomography](https://github.com/OpenEIT/EIT_PCB)
 
-Diffused Optical Imaging Ressources. This is the tech being used by Mary Lou Jepken's company [Openwater](https://www.opnwatr.io/). She's aiming to build a portable MRI.
+### Diffused Optical Imaging Ressources. 
+This is the tech being used by Mary Lou Jepken's company [Openwater](https://www.opnwatr.io/). She's aiming to build a portable MRI.
 
 * [Diffuse optical imaging/ The tech being used by ](https://en.wikipedia.org/wiki/Diffuse_optical_imaging)
 * [Diffuse Optical Imaging pt. 2](https://drive.google.com/file/d/0B-G2rraXdWRlenk2U0QzbW9PdkU/view?usp=sharing)
