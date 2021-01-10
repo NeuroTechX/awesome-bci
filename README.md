@@ -77,6 +77,7 @@ These applications do not require any form of dependencies for it to work. Essen
 * [PsychoPy](http://www.psychopy.org/)
 * [BioSPPy](https://github.com/PIA-Group/BioSPPy)
 * [Timeflux](https://timeflux.io)
+* [EEGsynth](https://github.com/eegsynth/eegsynth)
 
 ### Android Toolboxes
 
@@ -98,6 +99,7 @@ These are some of the commonly used Communication protocols
 
 * [Lab Streaming Layer](https://github.com/sccn/labstreaminglayer)
 * [Open Sound Control](http://www.opensoundcontrol.org/)
+* [FieldTrip buffer](http://www.fieldtriptoolbox.org/development/realtime/buffer_protocol/)
  
 
 ## Hardware
@@ -117,6 +119,7 @@ This section is separated into different sections based on the type of technolog
 * [FreeEEG32: an open source 32 channel eeg](https://hackaday.io/project/20618-freeeeg32-32-channels-electroencephalography)
 * [Muse](https://choosemuse.com/)
 * [HackEEG](https://www.crowdsupply.com/starcat/hackeeg)
+
 #### Research Devices
 * [Wearable Sensing Dry Electrode EEG](http://www.wearablesensing.com)
 * [g.BCIsys](http://www.gtec.at/Products/Complete-Solutions/g.BCIsys-Specs-Features)
@@ -133,14 +136,12 @@ These devices use different brain signals for specific use cases (Such as sleepi
 * [Mattel Mindflex](https://en.wikipedia.org/wiki/Mindflex)
 * ~~[The Aware](https://www.kickstarter.com/projects/efitaware/the-aware-kickstart-the-hearable-revolution/)~~ (inactive, failed kickstarter)
 
-
 #### EEG Parts
 * [Florida Research Instruments](http://fri-fl-shop.com/)
 * [TI ADS1299EEG-FE](http://www.ti.com/tool/ads1299eegfe-pdk)
 * [DIY Electrode Design](https://oshpark.com/shared_projects/h2i1xBaW)
 * [Comparison of different types of electrodes](http://www.sciencedirect.com/science/article/pii/S1388245704003906)
 * [Intan Technologies](http://intantech.com)
-
 
 ### NIRS Research Devices
 * [Artinis Medical Systems](http://www.artinis.com/)
@@ -156,7 +157,6 @@ These devices combine different type of sensors to measure or influence brain ac
 
 ### Brain Stimulation
 * [DIY TMS](https://www.instructables.com/id/Transcranial-Magnetic-Stimulation-TMS-Device/)
-
 
 ### Upcoming NeuroImaging Tech
 * [Functional Ultrasound](http://fultrasound.eu/)
@@ -186,7 +186,7 @@ This is the tech being used by Mary Lou Jepken's company [Openwater](https://www
 
 ## Consultants For Hire
 
-* [Push The World](www.pushtheworld.us)
+* [Push The World](http://www.pushtheworld.us)
 
 ## Tutorials and Project Ideas
 
@@ -214,7 +214,6 @@ This is the tech being used by Mary Lou Jepken's company [Openwater](https://www
 * [Emotiv](https://www.emotiv.com/forums/)
 
 ### Blogs
-
 - [Autodidact](http://www.autodidacts.io/)
 - [Strfry](http://strfry.org/blog/)
 - [Fabien Lotte](https://sites.google.com/site/fabienlotte/code-and-softwares)
@@ -237,7 +236,6 @@ This is the tech being used by Mary Lou Jepken's company [Openwater](https://www
 * [BCI Competition](http://www.bbci.de/competition/iv/)
 
 ### Brain Controlled Competitions
-
 * [Brain Drone Competition](http://braindronerace.com/)
 * [Cybathlon](http://www.cybathlon.ethz.ch/)
 
