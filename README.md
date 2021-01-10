@@ -62,6 +62,7 @@ These applications do not require any form of dependencies for it to work. Essen
 * [BBCI](https://github.com/bbci/bbci_public)
 * [ERPLAB](http://erpinfo.org/erplab)
 * [Psychtoolbox](http://psychtoolbox.org)
+* [Chronux](http://chronux.org/)
 
 ### Python Toolboxes
 
