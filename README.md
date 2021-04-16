@@ -235,6 +235,7 @@ This is the tech being used by Mary Lou Jepken's company [Openwater](https://www
 * [Kaggle Seizure Detection](https://www.kaggle.com/c/seizure-detection)
 * [Decoding Brain Signals](https://gallery.cortanaintelligence.com/Competition/Decoding-Brain-Signals-2)
 * [BCI Competition](http://www.bbci.de/competition/iv/)
+* [BR41N.io BCI Competition](https://www.br41n.io/)
 
 ### Brain Controlled Competitions
 * [Brain Drone Competition](http://braindronerace.com/)
@@ -249,6 +250,7 @@ This is the tech being used by Mary Lou Jepken's company [Openwater](https://www
 * [Brain Summit](http://brainsummit.com/)
 * [NIPS](https://nips.cc/)
 * [SfN](http://www.sfn.org/)
+* [g.tec SpringSchool on BCI](https://www.gtec.at/spring-school-2021/)
 
 ## Reading Material
 
