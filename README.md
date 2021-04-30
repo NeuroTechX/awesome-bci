@@ -128,14 +128,7 @@ This section is separated into different sections based on the type of technolog
 * [Biosemi](http://www.biosemi.com/)
 * [ANT Neuro](https://www.ant-neuro.com)
 * [Advanced Brain Monitoring](http://www.advancedbrainmonitoring.com)
-
-#### EEG BCI Products
-These devices use different brain signals for specific use cases (Such as sleeping, controlling a toy, etc). 
-* [Muse](http://www.choosemuse.com/)
-* [Puzzlebox](https://github.com/PuzzleboxIO)
-* [Aurora](https://sleepwithaurora.com)
-* [Mattel Mindflex](https://en.wikipedia.org/wiki/Mindflex)
-* ~~[The Aware](https://www.kickstarter.com/projects/efitaware/the-aware-kickstart-the-hearable-revolution/)~~ (inactive, failed kickstarter)
+* [Brain Products](https://www.brainproducts.com/)
 
 #### EEG Parts
 * [Florida Research Instruments](http://fri-fl-shop.com/)
