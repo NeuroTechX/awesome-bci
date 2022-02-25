@@ -217,6 +217,7 @@ This is the tech being used by Mary Lou Jepken's company [Openwater](https://www
 - [Pierre Karashchuk](http://lambdaloop.com/)
 - [Jeremy Frey](http://phd.jfrey.info/)
 - [Irene Vigué Guix](http://www.irenevigueguix.com)
+- [NeurotechJP (Neurotech interview media)](https://neurotechjp.com)
 
 ## Competitions
 
@@ -292,4 +293,3 @@ This is the tech being used by Mary Lou Jepken's company [Openwater](https://www
 * [Novel Neurotechnologies Intervening in the Brain](https://nuffieldbioethics.org/wp-content/uploads/2013/06/Novel_neurotechnologies_report_PDF_web_0.pdf)
 * [Augment Human Cognitition by optimizing cortical oscillations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072086/)
 * [Open Neuroscience](https://open-neuroscience.com/en/) - a user-driven database of Open Source/Science projects related to Neurosciences
-
