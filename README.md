@@ -48,7 +48,7 @@ This list of resources is non-exhaustive. If you find something which you think 
 
 These applications do not require any form of dependencies for it to work. Essentially download the program, install it, and you are good to go!
 
-* [OpenVibe](http://openvibe.inria.fr/)
+* [OpenViBE](http://openvibe.inria.fr/)
 * [BCI2000](http://www.schalklab.org/research/bci2000)
 * [Brainstorm](http://neuroimage.usc.edu/brainstorm/)
 * [BrainBay](http://www.shifz.org/brainbay/)
@@ -79,6 +79,8 @@ These applications do not require any form of dependencies for it to work. Essen
 * [BioSPPy](https://github.com/PIA-Group/BioSPPy)
 * [Timeflux](https://timeflux.io)
 * [EEGsynth](https://github.com/eegsynth/eegsynth)
+* [pyRiemann](https://github.com/pyRiemann/pyRiemann)
+* [MOABB](https://github.com/NeuroTechX/moabb)
 
 ### Android Toolboxes
 
