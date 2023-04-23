@@ -53,6 +53,7 @@ These applications do not require any form of dependencies for it to work. Essen
 * [Brainstorm](http://neuroimage.usc.edu/brainstorm/)
 * [BrainBay](http://www.shifz.org/brainbay/)
 * [EventIDE](http://okazolab.com/)
+* [NeuroPype](https://neuropype.io)
 
 ### Matlab Toolboxes
 
