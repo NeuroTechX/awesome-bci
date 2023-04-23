@@ -132,6 +132,7 @@ This section is separated into different sections based on the type of technolog
 * [ANT Neuro](https://www.ant-neuro.com)
 * [Advanced Brain Monitoring](http://www.advancedbrainmonitoring.com)
 * [Brain Products](https://www.brainproducts.com/)
+* [Mentalab Explore](https://mentalab.com/)
 
 #### EEG Parts
 * [Florida Research Instruments](http://fri-fl-shop.com/)
