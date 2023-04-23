@@ -143,6 +143,7 @@ This section is separated into different sections based on the type of technolog
 
 ### NIRS Research Devices
 * [Artinis Medical Systems](http://www.artinis.com/)
+* [CortiVision](https://www.cortivision.com/)
 * [Hitachi Hightech](http://www.hitachi-hightech.com/global/product_list/?ld=iis1&md=iis1-6)
 * [NIRx](http://nirx.net/)
 * [Shimadzu](http://www.ssi.shimadzu.com/products/productgroup.cfm?subcatlink=tissueimaging)
