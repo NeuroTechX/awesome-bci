@@ -82,6 +82,8 @@ These applications do not require any form of dependencies for it to work. Essen
 * [EEGsynth](https://github.com/eegsynth/eegsynth)
 * [pyRiemann](https://github.com/pyRiemann/pyRiemann)
 * [MOABB](https://github.com/NeuroTechX/moabb)
+* [Braindecode](https://braindecode.org/dev/index.html)
+* [Brainflow](https://brainflow.org)
 
 ### Android Toolboxes
 
