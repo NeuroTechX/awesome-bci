@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This list of resources is non-exhaustive. If you find something which you think should be included, please add it! If you have never worked with Markdown before, check out this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).  
+This list of resources is non-exhaustive. If you find something which you think should be included, please add it! If you have never worked with Markdown before, check out this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).  
 
 ## Table of Contents
 
@@ -110,7 +110,7 @@ These are some of the commonly used Communication protocols
  
 
 ## Hardware
-This section is separated into different sections based on the type of technology. 
+This section is separated into different sections based on the types of technology. 
 
 ### EEG
 [Electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography) is the most commonly used form of Neurotechnology. There are many options out there meaning that you can easily find a device that matches your needs and price.
@@ -169,7 +169,7 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Quasi-Ballistic Photons. (The Tech being used by Facebook's BCI)](https://arxiv.org/pdf/cond-mat/9906188.pdf)
 * [Open Electrical Impedance Tomography](https://github.com/OpenEIT/EIT_PCB)
 
-### Diffused Optical Imaging Ressources. 
+### Diffused Optical Imaging Resources. 
 This is the tech being used by Mary Lou Jepken's company [Openwater](https://www.opnwatr.io/). She's aiming to build a portable MRI.
 
 * [Diffuse optical imaging/ The tech being used by ](https://en.wikipedia.org/wiki/Diffuse_optical_imaging)
@@ -258,7 +258,7 @@ This is the tech being used by Mary Lou Jepken's company [Openwater](https://www
 
 ### Papers
 
-- [MultiClass Brain-Computer INterface Classification by Riemannian Geometry](https://www.researchgate.net/publication/51727880_Multiclass_Brain-Computer_Interface_Classification_by_Riemannian_Geometry)
+- [Multiclass Brain-Computer Interface Classification by Riemannian Geometry](https://www.researchgate.net/publication/51727880_Multiclass_Brain-Computer_Interface_Classification_by_Riemannian_Geometry)
 - [A New Generation of Brain-Computer Interface Based on Riemannian Geometry](https://www.researchgate.net/publication/258144410_A_New_Generation_of_Brain-Computer_Interface_Based_on_Riemannian_Geometry)
 - [My Virtual Dream: Collective Neurofeedback in an Immersive Art Environment ](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130129)
 - [BCI Competition IV – Data Set I: Learning Discriminative Patterns for Self-Paced EEG-Based Motor Imagery Detection](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3272647/)
@@ -301,6 +301,6 @@ This is the tech being used by Mary Lou Jepken's company [Openwater](https://www
 * [Neuroscience Duke Course (Coursera)](https://www.coursera.org/learn/medical-neuroscience)
 * [Brede Wiki](http://neuro.compute.dtu.dk/wiki/Main_Page)
 * [Novel Neurotechnologies Intervening in the Brain](https://nuffieldbioethics.org/wp-content/uploads/2013/06/Novel_neurotechnologies_report_PDF_web_0.pdf)
-* [Augment Human Cognitition by optimizing cortical oscillations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072086/)
+* [Augment Human Cognition by optimizing cortical oscillations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072086/)
 * [Open Neuroscience](https://open-neuroscience.com/en/) - a user-driven database of Open Source/Science projects related to Neurosciences
 
