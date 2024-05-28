@@ -21,8 +21,6 @@ This list of resources is non-exhaustive. If you find something which you think 
   - [Hardware](#hardware)
     - [EEG](#eeg)
       - [Consumer and DIY Devices](#consumer-and-diy-devices)
-        - [Actively supported](#actively-supported)
-        - [Stale but still useful](#stale-but-still-useful)
       - [Research Devices Manufactures](#research-devices-manufactures)
       - [EEG Parts \& Supplies](#eeg-parts--supplies)
     - [NIRS](#nirs)
@@ -132,7 +130,6 @@ This section is separated into different sections based on the types of technolo
 
 Some of these devices are still supported and actively developed by manufacturers, community members, or researchers. Others are no longer supported but may still have a community of users who can help you get access.
 
-# Consumer and DIY Devices
 * [Muse 2016, Muse 2, Muse S](https://choosemuse.com/)
 * [OpenBCI Ganglion, Cyton, Daisy, Galea](http://openbci.com)
 * [IDUN Guardian](https://iduntechnologies.com/idun-guardian)
