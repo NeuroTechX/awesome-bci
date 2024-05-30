@@ -118,14 +118,16 @@ This section is separated into different sections based on the types of technolo
 #### Consumer and DIY Devices
 * [OpenBCI](http://openbci.com)
 * [icibici](https://icibici.github.io/site/)
-* [Emotiv EPOC](https://emotiv.com/epoc.php) & [Insight](https://emotiv.com/insight.php)
-* [Emotiv Insight](https://www.emotiv.com/insight/)
+* [Emotiv EPOC X](https://www.emotiv.com/products/epoc-x) & [Insight](https://emotiv.com/insight.php)
+* [Emotiv Insight](https://www.emotiv.com/products/insight)
+* [Emotiv MN8](https://www.emotiv.com/products/mn8)
 * [Neurosky](http://neurosky.com/)
 * [OpenEEG](http://openeeg.sourceforge.net/doc/)
 * [EEG-SMT by Olimex](https://bakerdh.wordpress.com/2013/01/31/a-first-look-at-the-olimex-eeg-smt/)
 * [FreeEEG32: an open source 32 channel eeg](https://hackaday.io/project/20618-freeeeg32-32-channels-electroencephalography)
 * [Muse](https://choosemuse.com/)
 * [HackEEG](https://www.crowdsupply.com/starcat/hackeeg)
+* [Neurosity The Crown](https://neurosity.co/crown)
 
 #### Research Devices
 * [Brain Products](https://www.brainproducts.com)
@@ -137,6 +139,8 @@ This section is separated into different sections based on the types of technolo
 * [Advanced Brain Monitoring](http://www.advancedbrainmonitoring.com)
 * [Brain Products](https://www.brainproducts.com/)
 * [Mentalab Explore](https://mentalab.com/)
+* [Conscious Labs - EEG Supra Headphones](https://conscious-labs.com/3-eeg-devices)
+* [Emotiv Flex Gel](https://www.emotiv.com/products/flex-gel) & [Emotiv Flex Saline](https://www.emotiv.com/products/flex-saline)
 
 #### EEG Parts
 * [Florida Research Instruments](http://fri-fl-shop.com/)
@@ -157,6 +161,7 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Foc.us Dev kit: EEG,TDCS,fNIRS,TACS](https://world.foc.us/eeg)
 * [Neuroelectrics: EEG,TDCS](http://www.neuroelectrics.com/)
 * [BITalino: EEG,EMG,ECG,EDA](http://www.bitalino.com/)
+* [Emotibit: EDA,PPG,Temperature](https://www.emotibit.com/)
 
 ### Brain Stimulation
 * [DIY TMS](https://www.instructables.com/id/Transcranial-Magnetic-Stimulation-TMS-Device/)
