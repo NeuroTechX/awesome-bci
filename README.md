@@ -163,6 +163,8 @@ Some of these devices are still supported and actively developed by manufacturer
 
 #### EEG Parts & Supplies
 
+* [Conscious Labs - EEG Supra Headphones](https://conscious-labs.com/3-eeg-devices)
+* [Emotiv Flex Gel](https://www.emotiv.com/products/flex-gel) & [Emotiv Flex Saline](https://www.emotiv.com/products/flex-saline)
 * [Florida Research Instruments](http://fri-fl-shop.com/)
 * [DIY Electrode Design](https://oshpark.com/shared_projects/h2i1xBaW)
 * [TI ADS1299EEG-FE](http://www.ti.com/tool/ads1299eegfe-pdk): Analog Front End for EEG solutions. e.g., in OpenBCI Cyton.
@@ -186,8 +188,10 @@ Near-Infrared Spectroscopy (NIRS) is a technology that measures the concentratio
 
 These devices combine different type of sensors to measure or influence brain activity.
 
-* [Foc.us Dev kit](https://world.foc.us/eeg): EEG,TDCS,fNIRS,TACS
-* [BITalino](http://www.bitalino.com/): EEG,EMG,ECG,EDA
+* [Foc.us Dev kit: EEG,TDCS,fNIRS,TACS](https://world.foc.us/eeg)
+* [Neuroelectrics: EEG,TDCS](http://www.neuroelectrics.com/)
+* [BITalino: EEG,EMG,ECG,EDA](http://www.bitalino.com/)
+* [Emotibit: EDA,PPG,Temperature](https://www.emotibit.com/)
 
 ### Brain Stimulation
 
