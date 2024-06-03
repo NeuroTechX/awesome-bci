@@ -1,59 +1,66 @@
-# NeuroTechEDU's Awesome List of BCI-related Resources 
+# NeuroTechEDU's Awesome List of BCI-related Resources
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This list of resources is non-exhaustive. If you find something which you think should be included, please add it! If you have never worked with Markdown before, check out this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).  
+This is a list of tools, resources, and learning materials related to Brain-Computer Interfaces (BCI). The list is maintained by the [NeuroTechX](https://neurotechx.com/) community.
+
+This list of resources is non-exhaustive. If you find something which you think should be included, please add it! If you have never worked with Markdown before, check out this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Table of Contents
 
-1. [Software](#Software)
-   * [Stand Alone BCI Applications](#stand-alone-bci-applications)
-   * [Matlab Toolboxes](#matlab-toolboxes)
-   * [Python Toolboxes](#python-toolboxes)
-   * [Android Toolboxes](#android-toolboxes)
-   * [Brain Visualizations](#brain-visualizations)
-   * [RaspberryPi Framework](#raspberrypi-framework)
-   * [Communication Protocols](#communication-protocols)
-2. [Hardware](#hardware)
-   * [EEG](#eeg)
-     * [Consumer and DIY EEG Devices](#consumer-and-diy-devices)
-     * [Research EEG Devices](#research-devices)
-     * [BCI Products](#eeg-bci-products)
-     * [EEG Parts](#eeg-parts)
-   * [NIRS Devices](#nirs-research-devices)
-   * [Multimodal Neurotech](#multimodal-neurotech) 
-   * [Upcoming NeuroImaging Tech](#upcoming-neuroimaging-tech)
-3. [Brain Databases](#brain-databases)
-4. [Consultants For Hire](#consultants-for-hire)
-5. [Tutorials and Project Ideas](#tutorials-and-project-ideas)
-6. [Communities and Blogs](#communities-and-blogs)
-   * [Blogs](#blogs)
-   * [Forum](#forums)
-7. [Competitions](#competitions)
-   * [Data Competitions](#data-competitions)  
-   * [Brain Controlled Competitions](#brain-controlled-competitions)
-8. [Conferences and Events](#conferences-and-events)
-9. [Reading Material](#reading-material)
-   * [Papers](#papers)
-   * [Introductory Books](#introductory-books)
-   * [Technical Books](#technical-books)
-   * [Signal Processing](#signal-processing)
-10. [Other Resources](#other-resources)
-
+- [NeuroTechEDU's Awesome List of BCI-related Resources](#neurotechedus-awesome-list-of-bci-related-resources)
+  - [Table of Contents](#table-of-contents)
+  - [Software](#software)
+    - [BCI Experiment Design and Analysis](#bci-experiment-design-and-analysis)
+    - [Matlab Toolboxes](#matlab-toolboxes)
+    - [Python Toolboxes](#python-toolboxes)
+    - [Mobile Apps](#mobile-apps)
+    - [Brain Visualizations](#brain-visualizations)
+    - [RaspberryPi Framework](#raspberrypi-framework)
+    - [Communication Protocols](#communication-protocols)
+  - [Hardware](#hardware)
+    - [EEG](#eeg)
+      - [Consumer and DIY Devices](#consumer-and-diy-devices)
+      - [Research Devices Manufactures](#research-devices-manufactures)
+      - [EEG Parts \& Supplies](#eeg-parts--supplies)
+    - [NIRS](#nirs)
+    - [Multimodal Neurotech](#multimodal-neurotech)
+    - [Brain Stimulation](#brain-stimulation)
+    - [Upcoming NeuroImaging Tech](#upcoming-neuroimaging-tech)
+  - [Brain Databases](#brain-databases)
+  - [Consultants For Hire](#consultants-for-hire)
+  - [Tutorials and Project Ideas](#tutorials-and-project-ideas)
+  - [Communities and Blogs](#communities-and-blogs)
+    - [Forums](#forums)
+    - [Blogs](#blogs)
+  - [Competitions](#competitions)
+    - [Data Competitions](#data-competitions)
+    - [Brain Controlled Competitions](#brain-controlled-competitions)
+  - [Conferences and Events](#conferences-and-events)
+  - [Reading Material](#reading-material)
+    - [Papers](#papers)
+    - [Introductory Books](#introductory-books)
+    - [Technical Books](#technical-books)
+    - [Signal Processing](#signal-processing)
+  - [Schools \& Summer Courses](#schools--summer-courses)
+  - [Other Resources](#other-resources)
 
 ## Software
 
+### BCI Experiment Design and Analysis
 
-### Stand Alone BCI Applications
+These applications help you design BCI experiments, run them, collect data, and analyze the results.
 
-These applications do not require any form of dependencies for it to work. Essentially download the program, install it, and you are good to go!
-
-* [OpenViBE](http://openvibe.inria.fr/)
-* [BCI2000](http://www.schalklab.org/research/bci2000)
-* [Brainstorm](http://neuroimage.usc.edu/brainstorm/)
-* [BrainBay](http://www.shifz.org/brainbay/)
-* [EventIDE](http://okazolab.com/)
-* [NeuroPype](https://neuropype.io)
+* [EEG-ExPy](https://github.com/NeuroTechX/eeg-expy): Free & Open-Source (FOSS) Python library for EEG & experiment design, recording, and analysis. Maintained by the EEG-ExPy team within NeuroTechX. [CNS2024 Poster](https://bit.ly/m/eeg-expy-cns)
+* [OpenViBE](http://openvibe.inria.fr/): A software platform dedicated to designing, testing, and using Brain-Computer Interfaces, maintained by the OpenViBE Consortium.
+* [BCI2000](http://www.schalklab.org/research/bci2000): Software suite with GUI based on C++ for data acquisition, stimulus presentation, and brain monitoring applications.
+* [Brainstorm](http://neuroimage.usc.edu/brainstorm/): Collaborative, open-source application dedicated to the analysis of brain recordings: MEG, EEG, fNIRS, ECoG, depth electrodes and multiunit electrophysiology.
+* [BrainBay](http://www.shifz.org/brainbay/): Bio- and neurofeedback application working with various hardware frameworks including OpenBCI/OpenEEG.
+* [EventIDE](http://okazolab.com/): EventIDE is a software platform for designing and running multimodal experiments, with an IDE.
+* [NeuroPype](https://neuropype.io): platform for real-time brain-computer interfacing (BCI), neuroimaging, and neural signal processing, which supports a range of biosignal modalities including EEG, fNIRS, ExG, etc.
+* [MNE](https://mne.tools/stable/install/mne_tools_suite.html): MNE-Python is an open-source Python module for processing, analysis, and visualization of functional neuroimaging data (EEG, MEG, sEEG, ECoG, and fNIRS). The tools suite includes interoperable packages in Python, MATLAB, C++, etc., which operate in GUI, CLI, or API.
+* [PsychoPy Builder](https://www.psychopy.org/builder/): PsychoPy is an open-source application for creating experiments in neuroscience, psychology, and psychophysics.
+* [PsychToolBox](http://psychtoolbox.org/): Psychophysics Toolbox Version 3 (PTB-3) is a free set of Matlab and GNU Octave functions for vision and neuroscience research.
 
 ### Matlab Toolboxes
 
@@ -73,7 +80,7 @@ These applications do not require any form of dependencies for it to work. Essen
 * [Wyrm](https://github.com/bbci/wyrm)
 * [EEGrunt](https://github.com/curiositry/EEGrunt)
 * [Cloudbrain](http://getcloudbrain.com/)
-* [Python MNE](http://martinos.org/mne/stable/index.html)
+* [MNE-Python](https://github.com/mne-tools/mne-python)
 * [OpenNFB](https://github.com/strfry/OpenNFB)
 * [bcikit](https://github.com/octopicorn/bcikit)
 * [PsychoPy](http://www.psychopy.org/)
@@ -85,29 +92,33 @@ These applications do not require any form of dependencies for it to work. Essen
 * [NeuroPrime](https://github.com/nmc-costa/neuroprime)
 * [Braindecode](https://braindecode.org/dev/index.html)
 * [Brainflow](https://brainflow.org)
+* [EEG-ExPy](https://github.com/neurotechx/eeg-expy)
 
-### Android Toolboxes
+### Mobile Apps
 
-* [EEG-101](https://github.com/NeuroTechX/eeg-101)
-* [NeuroSky Android SDK](https://github.com/pwittchen/neurosky-android-sdk)
+* MindMonitor: [iOS App Store](https://apps.apple.com/ca/app/mind-monitor/id988527143), [Google Play Store](https://play.google.com/store/apps/details?id=com.sonicPenguins.museMonitor)
+* NeuroSky Android SDK: [Google Play Store](https://github.com/pwittchen/neurosky-android-sdk)
+* EEG-101 (Now-deprecated): [Google Play Store](https://github.com/NeuroTechX/eeg-101)
 
 ### Brain Visualizations
 
 * [BrainBox](http://brainbox.pasteur.fr/)
 * [BrainBrowser](https://brainbrowser.cbrain.mcgill.ca/)
+* [Moonlight](https://zzz.bwh.harvard.edu/luna/moonlight/)
 
 ### RaspberryPi Framework
 
+* [PiEEG](https://pieeg.com/)
+* [Blino PiNaps](https://github.com/BlinoTech/BlinoTech.github.io)
 * [IntelliPi](https://github.com/AtlantsEmbedded/IntelliPi)
 
 ### Communication Protocols
 
-These are some of the commonly used Communication protocols 
+These are some of the commonly used Communication protocols.
 
 * [Lab Streaming Layer](https://github.com/sccn/labstreaminglayer)
 * [Open Sound Control](http://www.opensoundcontrol.org/)
 * [FieldTrip buffer](http://www.fieldtriptoolbox.org/development/realtime/buffer_protocol/)
- 
 
 ## Hardware
 This section is separated into different sections based on the types of technology. 
@@ -116,69 +127,101 @@ This section is separated into different sections based on the types of technolo
 [Electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography) is the most commonly used form of Neurotechnology. There are many options out there meaning that you can easily find a device that matches your needs and price.
 
 #### Consumer and DIY Devices
-* [OpenBCI](http://openbci.com)
-* [icibici](https://icibici.github.io/site/)
-* [Emotiv EPOC X](https://www.emotiv.com/products/epoc-x) & [Insight](https://emotiv.com/insight.php)
-* [Emotiv Insight](https://www.emotiv.com/products/insight)
-* [Emotiv MN8](https://www.emotiv.com/products/mn8)
-* [Neurosky](http://neurosky.com/)
-* [OpenEEG](http://openeeg.sourceforge.net/doc/)
-* [EEG-SMT by Olimex](https://bakerdh.wordpress.com/2013/01/31/a-first-look-at-the-olimex-eeg-smt/)
-* [FreeEEG32: an open source 32 channel eeg](https://hackaday.io/project/20618-freeeeg32-32-channels-electroencephalography)
-* [Muse](https://choosemuse.com/)
-* [HackEEG](https://www.crowdsupply.com/starcat/hackeeg)
-* [Neurosity The Crown](https://neurosity.co/crown)
 
-#### Research Devices
-* [Brain Products](https://www.brainproducts.com)
+Some of these devices are still supported and actively developed by manufacturers, community members, or researchers. Others are no longer supported but may still have a community of users who can help you get access.
+
+* [Muse 2016, Muse 2, Muse S](https://choosemuse.com/)
+* [OpenBCI Ganglion, Cyton, Daisy, Galea](http://openbci.com)
+* [IDUN Guardian](https://iduntechnologies.com/idun-guardian)
+* [Neurable MW75 Neuro](https://neurable.com/)
+* [Neurosity Crown](https://neurosity.co/)
+* [BrainBit Headband & Flex](https://brainbit.com/)
+* [Emotiv EPOC, Flex, Insight](https://emotiv.com)
+* [Dreem by Beacon Biosignals](https://beacon.bio/dreem-headband/)
+* [Cognionics](http://www.cognionics.com/)
+* [Elemind](https://elemindtech.com/)
+* [Melomind](https://www.themelomind.com/)
+* [Neurosky](http://neurosky.com/)
+* [FreeEEG32: an open source 32 channel eeg](https://www.crowdsupply.com/neuroidss/freeeeg32)
+* [EEG-SMT by Olimex](https://bakerdh.wordpress.com/2013/01/31/a-first-look-at-the-olimex-eeg-smt/)
+* [HackEEG](https://www.crowdsupply.com/starcat/hackeeg)
+* [icibici](https://icibici.github.io/site/)
+* [OpenEEG](http://openeeg.sourceforge.net/doc/)
+
+#### Research Devices Manufactures
+
 * [Wearable Sensing Dry Electrode EEG](http://www.wearablesensing.com)
-* [g.BCIsys](http://www.gtec.at/Products/Complete-Solutions/g.BCIsys-Specs-Features)
+* [g.tec](https://www.gtec.at)
 * [EGI High Density EEG](https://www.egi.com/)
-* [Biosemi](http://www.biosemi.com/)
+* [BioSemi](http://www.biosemi.com/)
 * [ANT Neuro](https://www.ant-neuro.com)
 * [Advanced Brain Monitoring](http://www.advancedbrainmonitoring.com)
 * [Brain Products](https://www.brainproducts.com/)
 * [Mentalab Explore](https://mentalab.com/)
+* [Natus Neuro](http://www.natus.com)
+* [TMSi](https://www.tmsi.com/products/)
+
+#### EEG Parts & Supplies
+
 * [Conscious Labs - EEG Supra Headphones](https://conscious-labs.com/3-eeg-devices)
 * [Emotiv Flex Gel](https://www.emotiv.com/products/flex-gel) & [Emotiv Flex Saline](https://www.emotiv.com/products/flex-saline)
-
-#### EEG Parts
 * [Florida Research Instruments](http://fri-fl-shop.com/)
-* [TI ADS1299EEG-FE](http://www.ti.com/tool/ads1299eegfe-pdk)
 * [DIY Electrode Design](https://oshpark.com/shared_projects/h2i1xBaW)
+* [TI ADS1299EEG-FE](http://www.ti.com/tool/ads1299eegfe-pdk): Analog Front End for EEG solutions. e.g., in OpenBCI Cyton.
+* [Intan Technologies](http://intantech.com): Microchips and miniature recording & stimulation headstages.
+* [IDUN Dryode](https://shop.openbci.com/products/idun-dryode-kit): Adhesive dry electrodes for EEG.
+* [Bio-Medical](https://bio-medical.com/supplies/eeg-electrodes.html): For supplies and consumables
 * [Comparison of different types of electrodes](http://www.sciencedirect.com/science/article/pii/S1388245704003906)
-* [Intan Technologies](http://intantech.com)
 
-### NIRS Research Devices
+### NIRS
+
+Near-Infrared Spectroscopy (NIRS) is a technology that measures the concentration of hemoglobin in each brain region, which can be used to infer energy expenditure and hence higher activity in that region.
+
 * [Artinis Medical Systems](http://www.artinis.com/)
 * [CortiVision](https://www.cortivision.com/)
 * [Hitachi Hightech](http://www.hitachi-hightech.com/global/product_list/?ld=iis1&md=iis1-6)
 * [NIRx](http://nirx.net/)
 * [Shimadzu](http://www.ssi.shimadzu.com/products/productgroup.cfm?subcatlink=tissueimaging)
+* [Kernel Flow](https://kernel.co): EEG + TD-fNIRS
 
-### Multimodal Neurotech 
-These devices combine different type of sensors to measure or influence brain activity. 
+### Multimodal Neurotech
+
+These devices combine different type of sensors to measure or influence brain activity.
+
 * [Foc.us Dev kit: EEG,TDCS,fNIRS,TACS](https://world.foc.us/eeg)
 * [Neuroelectrics: EEG,TDCS](http://www.neuroelectrics.com/)
 * [BITalino: EEG,EMG,ECG,EDA](http://www.bitalino.com/)
 * [Emotibit: EDA,PPG,Temperature](https://www.emotibit.com/)
 
 ### Brain Stimulation
-* [DIY TMS](https://www.instructables.com/id/Transcranial-Magnetic-Stimulation-TMS-Device/)
+
+* [DIY TMS](https://www.instructables.com/id/Transcranial-Magnetic-Stimulation-TMS-Device/): Transcranial Magnetic Stimulation (TMS)
+* [Boston Scientific](https://www.bostonscientific.com/en-US/products/deep-brain-stimulation-systems.html): DBS, SCS
+* [Medtronic](http://www.medtronic.com/us-en/index.html): DBS, tES, SCS
+* [Magstim](https://www.magstim.com/): TMS
+* [Soterix Medical](https://www.soterixmedical.com/): TDCS, tACS, tRNS
+* [Clarity](https://clarity-technologies.com/): Light & Stimulation therapy for Alzheimer's Disease
+* [Vielight](https://vielight.com/): Transcranial Photobiomodulation
+* [Neuroelectrics](http://www.neuroelectrics.com/): tDCS, tACS, tRNS
+* [NeuroPace](https://www.neuropace.com/): RNS
+* [NerveX](https://nervexneurotech.com/): VNS in canine epilepsy.
+* [NeuroSigma](https://neurosigma.com/): eTNS
+* [Brainsway](https://www.brainsway.com/): Deep TMS
 
 ### Upcoming NeuroImaging Tech
-* [Functional Ultrasound](http://fultrasound.eu/)
+
+* [Functional Ultrasound (FUS)](http://fultrasound.eu/)
 * [FPGA Ultrasound Imaging on a Raspberry Pi ](http://un0rick.cc/FPGA-Rpi)
 * [Event Related Optical Signal](https://en.wikipedia.org/wiki/Event-related_optical_signal)
 * [Event-Related Optical Signal](https://www.researchgate.net/publication/223360817_Shedding_light_on_brain_function_The_event-related_optical_signal)
 * [Quasi-Ballistic Photons. (The Tech being used by Facebook's BCI)](https://arxiv.org/pdf/cond-mat/9906188.pdf)
 * [Open Electrical Impedance Tomography](https://github.com/OpenEIT/EIT_PCB)
-
-### Diffused Optical Imaging Resources. 
-This is the tech being used by Mary Lou Jepken's company [Openwater](https://www.opnwatr.io/). She's aiming to build a portable MRI.
-
-* [Diffuse optical imaging/ The tech being used by ](https://en.wikipedia.org/wiki/Diffuse_optical_imaging)
-* [Diffuse Optical Imaging pt. 2](https://drive.google.com/file/d/0B-G2rraXdWRlenk2U0QzbW9PdkU/view?usp=sharing)
+* [Optically Pumped Magnetometers (OPM)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9805039/), e.g., [QuSpin](https://quspin.com/) and [Cerca](https://www.cercamagnetics.com/cerca-opm-meg):
+  * "Optically" stabilizing highly sensitive magnetometers to measure the change in magnetic fields due to neural activity.
+  * Does not need Helium cooling like conventional (SQUID) MEG, and hence is much smaller and lighter, and somewhat cheaper.
+* Diffused Optical Imaging: Used for instance by Mary Lou Jepken et al @ [Openwater](https://www.opnwatr.io/), aiming to build a portable MRI. More info on the tech:
+  * [Diffuse optical imaging pt. 1 (wiki)](https://en.wikipedia.org/wiki/Diffuse_optical_imaging)
+  * [Diffuse Optical Imaging pt. 2](https://drive.google.com/file/d/0B-G2rraXdWRlenk2U0QzbW9PdkU/view?usp=sharing)
 
 ## Brain Databases
 
@@ -191,13 +234,19 @@ This is the tech being used by Mary Lou Jepken's company [Openwater](https://www
 * [MindBigData MNIST of Brain Digits](http://mindbigdata.com/opendb/index.html)
 * [MindBigData ImageNet of The Brain](http://www.mindbigdata.com/opendb/imagenet.html)
 * [meagmohit's List of EEG Datasets](https://github.com/meagmohit/EEG-Datasets)
+* [OpenNeuro](https://openneuro.org/)
+* [PhysioNet](https://physionet.org/)
+* [National Sleep Research Resource](https://sleepdata.org/): A large collection of sleep data. Supported by the Sleep Research Society (SRS).
+* [Temple University EEG Corpora](https://isip.piconepress.com/projects/): various datasets including health, epilepsy, artifactual, etc.
 
 ## Consultants For Hire
 
+* [NeuroTechX Services](https://neurotechx-services.com/): Specialized Advisory group dedicated to supporting Startups, Scaleups, Strategics and Investors in their efforts to commercialize Neurotechnology and (Neuro) Digital Health innovations.
 * [Push The World](http://www.pushtheworld.us)
 
 ## Tutorials and Project Ideas
 
+* [EEGEdu](https://eegedu.com): Web-based live Tutorial on EEG and BCI, from basic to advanced. Maintained by the Mathewsons ([Ky](https://sites.psych.ualberta.ca/kylemathewson/)[Kor](https://korymathewson.com/)[Key](https://www.linkedin.com/in/keyfer/))
 * [How to Hack Toy EEGs](http://www.frontiernerds.com/brain-hack)
 * [BCI Workshop](https://github.com/bcimontreal/bci_workshop/blob/master/INSTRUCTIONS.md)
 * [Introduction to Modern BCI](http://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design)
@@ -210,7 +259,6 @@ This is the tech being used by Mary Lou Jepken's company [Openwater](https://www
 * [BCI Course offered by Columbia University](http://naplab.ee.columbia.edu/bcilab.html)
 * [BCI Course at Berkeley by Pierre of NeuroTechX](https://github.com/NeurotechBerkeley/bci-course)
 * [EEG and MRI Course offered by OHBM](https://www.humanbrainmapping.org/m/pages.cfm?pageID=3814)
-* [EEG Notebooks: Jupyter notebooks with classic EEG experiments for beginners](https://github.com/NeuroTechX/eeg-notebooks)
 
 ## Communities and Blogs
 
@@ -222,6 +270,10 @@ This is the tech being used by Mary Lou Jepken's company [Openwater](https://www
 * [Emotiv](https://www.emotiv.com/forums/)
 
 ### Blogs
+
+- [NeuroTechX Content Lab](https://neurotechx.medium.com/): Articles, tutorials, and interviews on neurotechnology
+- [The EEG Newsletter](https://eegnewsletter.substack.com/): News, events, and resources in EEG. By Raquel E. London
+- [Natalie Schaworonkow](https://nschawor.github.io/posts/)
 - [Autodidact](http://www.autodidacts.io/)
 - [Strfry](http://strfry.org/blog/)
 - [Fabien Lotte](https://sites.google.com/site/fabienlotte/code-and-softwares)
@@ -251,7 +303,7 @@ This is the tech being used by Mary Lou Jepken's company [Openwater](https://www
 ## Conferences and Events
 * [**List**: Curated list of events (BCI Society)](http://bcisociety.org/events/)
 * [BCI Meeting](http://bcisociety.org/meetings/bci-meeting-2016-welcome/)
-* [NeuroGaming / XTech](http://www.neurogamingconf.com/)[(Youtube Videos)](https://www.youtube.com/user/NeuroGamingCon/videos)
+* [NeuroGaming / XTech](http://www.neurogamingconf.com/) [(Youtube Videos)](https://www.youtube.com/user/NeuroGamingCon/videos)
 * [CHI](https://chi2016.acm.org/wp/)
 * [BrainTech](http://conference.israelbrain.org/)
 * [Brain Summit](http://brainsummit.com/)
@@ -300,12 +352,19 @@ This is the tech being used by Mary Lou Jepken's company [Openwater](https://www
 * [Discrete-Time Signal Processing (2nd Edition) (Oppenheim, Schafer, Buck)](http://www.amazon.com/Discrete-Time-Signal-Processing-Edition-Prentice-Hall/dp/0137549202)
 * [Data analysis lecturelets (Mike X Cohen)](http://www.mikexcohen.com/lectures.html)
 
+## Schools & Summer Courses
+
+* [NeuroTech MicroCredentials Course](https://neurotechmicrocreds.com/): An accredited series of theoretical and hands-on courses on Neurotechnology, offered by NeuroTechX and Queens University.
+* [Neuromatch Academy (NMA) Summer Schools](https://neuromatch.io/academy/): An online, community-driven set of summer schools in computational sciences
+* [Sinxpress summer schools](https://sincxpress.com/summerschool.html) by Mike X. Cohen
+* [Brainhack](https://brainhack.org/): A community-driven, online, and in-person school for neurotech enthusiasts, happening in many cities around you!
+* Recurring summer schools or community-maintained lists of Neurotech-related summer schools
+  * [List maintained by N. Schwar](https://nschawor.github.io/posts/2024/neuro-summer-schools/)
+  * [List maintained by N. Biswas](https://nayanika-biswas.notion.site/58f1530bd891475eb92f1e2e4984022f?v=83fc50c53b3a4191aa6f7cdf8d9b4e40)
 
 ## Other Resources
-* [Neuroscience Summer Schools](https://github.com/PhABC/neuroSummerSchools/blob/master/README.md)
 * [Neuroscience Duke Course (Coursera)](https://www.coursera.org/learn/medical-neuroscience)
 * [Brede Wiki](http://neuro.compute.dtu.dk/wiki/Main_Page)
 * [Novel Neurotechnologies Intervening in the Brain](https://nuffieldbioethics.org/wp-content/uploads/2013/06/Novel_neurotechnologies_report_PDF_web_0.pdf)
 * [Augment Human Cognition by optimizing cortical oscillations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072086/)
 * [Open Neuroscience](https://open-neuroscience.com/en/) - a user-driven database of Open Source/Science projects related to Neurosciences
-
