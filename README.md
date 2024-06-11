@@ -367,4 +367,5 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Brede Wiki](http://neuro.compute.dtu.dk/wiki/Main_Page)
 * [Novel Neurotechnologies Intervening in the Brain](https://nuffieldbioethics.org/wp-content/uploads/2013/06/Novel_neurotechnologies_report_PDF_web_0.pdf)
 * [Augment Human Cognition by optimizing cortical oscillations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072086/)
-* [Open Neuroscience](https://open-neuroscience.com/en/) - a user-driven database of Open Source/Science projects related to Neurosciences
+* [Open Neuroscience](https://open-neuroscience.com/) - a user-driven database of Open Source/Science projects related to Neurosciences
+* [Awesome-BCI-Reviews](https://github.com/okbalefthanded/awesome-bci-reviews) - Curated list of Brain-Computer Interface peer-reviewd published reviews and surveys ordered by year of publication.
