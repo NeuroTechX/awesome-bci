@@ -111,7 +111,7 @@ These applications help you design BCI experiments, run them, collect data, and 
 
 * [PiEEG](https://pieeg.com/)
 * [Blino PiNaps](https://github.com/BlinoTech/BlinoTech.github.io)
-* [IntelliPi](https://github.com/AtlantsEmbedded/IntelliPi)
+* [IntelliPi](https://github.com/AtlantsEmbedded/IntelliPi) (deprecated)
 
 ### Communication Protocols
 
@@ -136,6 +136,7 @@ Some of these devices are still supported and actively developed by manufacturer
 * [IDUN Guardian](https://iduntechnologies.com/idun-guardian)
 * [Neurable MW75 Neuro](https://neurable.com/)
 * [Neurosity Crown](https://neurosity.co/)
+* [Nucleus-Hermes](https://re-ak.com/)
 * [BrainBit Headband & Flex](https://brainbit.com/)
 * [Emotiv EPOC, Flex, Insight](https://emotiv.com)
 * [Dreem by Beacon Biosignals](https://beacon.bio/dreem-headband/)
@@ -283,6 +284,7 @@ These devices combine different type of sensors to measure or influence brain ac
 - [Pierre Karashchuk](http://lambdaloop.com/)
 - [Jeremy Frey](http://phd.jfrey.info/)
 - [Irene Vigué Guix](http://www.irenevigueguix.com)
+- [Fred Simard | RE-AK Technologies (medium)](https://medium.com/@re-ak)
 
 ## Competitions
 
@@ -369,3 +371,4 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Augment Human Cognition by optimizing cortical oscillations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072086/)
 * [Open Neuroscience](https://open-neuroscience.com/) - a user-driven database of Open Source/Science projects related to Neurosciences
 * [Awesome-BCI-Reviews](https://github.com/okbalefthanded/awesome-bci-reviews) - Curated list of Brain-Computer Interface peer-reviewd published reviews and surveys ordered by year of publication.
+* [Mindscape-Emotions](https://bit.ly/mindscape-emotions-en) - An eBook exploring emotional and cognitive analysis of entertainment experiences at scale, using the Nucleus-Hermès.
