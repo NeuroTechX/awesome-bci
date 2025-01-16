@@ -243,6 +243,7 @@ These devices combine different type of sensors to measure or influence brain ac
 ## Consultants For Hire
 
 * [NeuroTechX Services](https://neurotechx-services.com/): Specialized Advisory group dedicated to supporting Startups, Scaleups, Strategics and Investors in their efforts to commercialize Neurotechnology and (Neuro) Digital Health innovations.
+* [Neurotech Lab](https://www.neurotechlab.ai/): Provides data analysis, research services, and consultation services in neurotechnology and neuroscience, including application of machine learning and AI techniques to diverse types of neural data.
 
 ## Tutorials and Project Ideas
 
