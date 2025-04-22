@@ -53,7 +53,7 @@ These applications help you design BCI experiments, run them, collect data, and 
 
 * [EEG-ExPy](https://github.com/NeuroTechX/eeg-expy): Free & Open-Source (FOSS) Python library for EEG & experiment design, recording, and analysis. Maintained by the EEG-ExPy team within NeuroTechX. [CNS2024 Poster](https://bit.ly/m/eeg-expy-cns)
 * [OpenViBE](http://openvibe.inria.fr/): A software platform dedicated to designing, testing, and using Brain-Computer Interfaces, maintained by the OpenViBE Consortium.
-* [BCI2000](http://www.schalklab.org/research/bci2000): Software suite with GUI based on C++ for data acquisition, stimulus presentation, and brain monitoring applications.
+* [BCI2000](https://www.bci2000.org/mediawiki/index.php/Main_Page): Software suite with GUI based on C++ for data acquisition, stimulus presentation, and brain monitoring applications.
 * [Brainstorm](http://neuroimage.usc.edu/brainstorm/): Collaborative, open-source application dedicated to the analysis of brain recordings: MEG, EEG, fNIRS, ECoG, depth electrodes and multiunit electrophysiology.
 * [BrainBay](http://www.shifz.org/brainbay/): Bio- and neurofeedback application working with various hardware frameworks including OpenBCI/OpenEEG.
 * [EventIDE](http://okazolab.com/): EventIDE is a software platform for designing and running multimodal experiments, with an IDE.
@@ -105,7 +105,7 @@ These applications help you design BCI experiments, run them, collect data, and 
 
 * [BrainBox](http://brainbox.pasteur.fr/)
 * [BrainBrowser](https://brainbrowser.cbrain.mcgill.ca/)
-* [Moonlight](https://zzz.bwh.harvard.edu/luna/moonlight/)
+* [Moonlight](https://zzz.bwh.harvard.edu/luna/apps/moonlight/)
 
 ### RaspberryPi Framework
 
@@ -141,7 +141,6 @@ Some of these devices are still supported and actively developed by manufacturer
 * [Dreem by Beacon Biosignals](https://beacon.bio/dreem-headband/)
 * [Cognionics](http://www.cognionics.com/)
 * [Elemind](https://elemindtech.com/)
-* [Melomind](https://www.themelomind.com/)
 * [Neurosky](http://neurosky.com/)
 * [FreeEEG32: an open source 32 channel eeg](https://www.crowdsupply.com/neuroidss/freeeeg32)
 * [EEG-SMT by Olimex](https://bakerdh.wordpress.com/2013/01/31/a-first-look-at-the-olimex-eeg-smt/)
@@ -189,7 +188,7 @@ Near-Infrared Spectroscopy (NIRS) is a technology that measures the concentratio
 
 These devices combine different type of sensors to measure or influence brain activity.
 
-* [Foc.us Dev kit: EEG,TDCS,fNIRS,TACS](https://world.foc.us/eeg)
+* [Foc.us Dev kit: EEG,TDCS,fNIRS,TACS](https://foc.us/focus-eeg-dev-kit-instructions-guide/)
 * [Neuroelectrics: EEG,TDCS](http://www.neuroelectrics.com/)
 * [BITalino: EEG,EMG,ECG,EDA](http://www.bitalino.com/)
 * [Emotibit: EDA,PPG,Temperature](https://www.emotibit.com/)
@@ -212,7 +211,6 @@ These devices combine different type of sensors to measure or influence brain ac
 ### Upcoming NeuroImaging Tech
 
 * [Functional Ultrasound (FUS)](http://fultrasound.eu/)
-* [FPGA Ultrasound Imaging on a Raspberry Pi ](http://un0rick.cc/FPGA-Rpi)
 * [Event Related Optical Signal](https://en.wikipedia.org/wiki/Event-related_optical_signal)
 * [Event-Related Optical Signal](https://www.researchgate.net/publication/223360817_Shedding_light_on_brain_function_The_event-related_optical_signal)
 * [Quasi-Ballistic Photons. (The Tech being used by Facebook's BCI)](https://arxiv.org/pdf/cond-mat/9906188.pdf)
@@ -220,7 +218,7 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Optically Pumped Magnetometers (OPM)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9805039/), e.g., [QuSpin](https://quspin.com/) and [Cerca](https://www.cercamagnetics.com/cerca-opm-meg):
   * "Optically" stabilizing highly sensitive magnetometers to measure the change in magnetic fields due to neural activity.
   * Does not need Helium cooling like conventional (SQUID) MEG, and hence is much smaller and lighter, and somewhat cheaper.
-* Diffused Optical Imaging: Used for instance by Mary Lou Jepken et al @ [Openwater](https://www.opnwatr.io/), aiming to build a portable MRI. More info on the tech:
+* Diffused Optical Imaging: Used for instance by Mary Lou Jepken et al @ [Openwater](https://www.openwater.health/), aiming to build a portable MRI. More info on the tech:
   * [Diffuse optical imaging pt. 1 (wiki)](https://en.wikipedia.org/wiki/Diffuse_optical_imaging)
   * [Diffuse Optical Imaging pt. 2](https://drive.google.com/file/d/0B-G2rraXdWRlenk2U0QzbW9PdkU/view?usp=sharing)
 
@@ -229,7 +227,6 @@ These devices combine different type of sensors to measure or influence brain ac
 * [SCCN list of eeg/erp data for free public download](http://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
 * [EEG studies with the raw data](http://www.studycatalog.org/) - [(from BigEEG Consortium)](http://www.bigeeg.org/)
 * [BNCI Horizon Data Sets](http://bnci-horizon-2020.eu/database/data-sets)
-* [g.tec biosignal Data Sets](http://www.gtec.at/Research/Biosignal-Data-Sets/content/Biosignal-Data-Sets)
 * [The Child Mind Institute MIPDB Dataset](http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/)
 * [RAM (DARPA) Invasive Recording Dataset from U. Penn](http://memory.psych.upenn.edu/RAM)
 * [MindBigData MNIST of Brain Digits](http://mindbigdata.com/opendb/index.html)
@@ -240,10 +237,6 @@ These devices combine different type of sensors to measure or influence brain ac
 * [National Sleep Research Resource](https://sleepdata.org/): A large collection of sleep data. Supported by the Sleep Research Society (SRS).
 * [Temple University EEG Corpora](https://isip.piconepress.com/projects/): various datasets including health, epilepsy, artifactual, etc.
 
-## Consultants For Hire
-
-* [NeuroTechX Services](https://neurotechx-services.com/): Specialized Advisory group dedicated to supporting Startups, Scaleups, Strategics and Investors in their efforts to commercialize Neurotechnology and (Neuro) Digital Health innovations.
-
 ## Tutorials and Project Ideas
 
 * [EEGEdu](https://eegedu.com): Web-based live Tutorial on EEG and BCI, from basic to advanced. Maintained by the Mathewsons ([Ky](https://sites.psych.ualberta.ca/kylemathewson/)[Kor](https://korymathewson.com/)[Key](https://www.linkedin.com/in/keyfer/))
@@ -252,8 +245,8 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Introduction to Modern BCI](http://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design)
 * [Brain-Controlled Shark Attack](http://eeghacker.blogspot.com/2015/03/brain-controlled-shark-attack.html)
 * [Controlling a sphero with a muse](https://github.com/neuralcubes/musephero)
-* [Building a 20 Euro EEG for your smartphone](https://jmanart.github.io/smartphone-bci-hardware/)
-* [Muse File Reader for OpenVibe](http://openvibe.inria.fr/forum/viewtopic.php?f=3&t=9668)
+* [Building a 20 Euro EEG for your smartphone](https://github.com/jmanart/smartphone-bci)
+* [Muse File Reader for OpenVibe](https://web.archive.org/web/20240930191736/https://openvibe.inria.fr/forum/viewtopic.php?f=3&t=9668)
 * [EEG 101: Interactive tutorial for Android and Muse](https://github.com/NeuroTechX/eeg-101)
 * [Brainwave analyzer](https://github.com/katie356/BrainwaveAnalyzer/tree/master/web-edition)
 * [BCI Course offered by Columbia University](http://naplab.ee.columbia.edu/bcilab.html)
@@ -267,7 +260,7 @@ These devices combine different type of sensors to measure or influence brain ac
 * [OpenBCI Community](http://openbci.com/community/)
 * [Muse Community](http://forum.choosemuse.com/)
 * [NeuroSky](http://support.neurosky.com/discussions)
-* [Emotiv](https://www.emotiv.com/forums/)
+* [Emotiv](https://forum.emotiv.com/)
 
 ### Blogs
 
@@ -276,9 +269,8 @@ These devices combine different type of sensors to measure or influence brain ac
 - [Natalie Schaworonkow](https://nschawor.github.io/posts/)
 - [Autodidact](http://www.autodidacts.io/)
 - [Strfry](http://strfry.org/blog/)
-- [Fabien Lotte](https://sites.google.com/site/fabienlotte/code-and-softwares)
+- [Fabien Lotte](https://sites.google.com/site/fabienlotte/research/code-and-softwares)
 - [Chip Audette EEG Hacker](http://eeghacker.blogspot.ca/)
-- [Atlants Embedded](http://www.atlantsembedded.com/blog)
 - [Alexandre Barachant](http://alexandre.barachant.org/)
 - [Pierre Karashchuk](http://lambdaloop.com/)
 - [Jeremy Frey](http://phd.jfrey.info/)
@@ -292,7 +284,6 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Kaggle Decode the Human Brain](https://www.kaggle.com/c/decoding-the-human-brain)
 * [Kaggle Seizure Prediction](https://www.kaggle.com/c/seizure-prediction)
 * [Kaggle Seizure Detection](https://www.kaggle.com/c/seizure-detection)
-* [Decoding Brain Signals](https://gallery.cortanaintelligence.com/Competition/Decoding-Brain-Signals-2)
 * [BCI Competition](http://www.bbci.de/competition/iv/)
 * [BR41N.io BCI Competition](https://www.br41n.io/)
 
@@ -302,14 +293,15 @@ These devices combine different type of sensors to measure or influence brain ac
 
 ## Conferences and Events
 * [**List**: Curated list of events (BCI Society)](http://bcisociety.org/events/)
-* [BCI Meeting](http://bcisociety.org/meetings/bci-meeting-2016-welcome/)
+* [BCI Thursdays (BCI Society)](https://bcisociety.org/bci-thursdays-online-events/)
+* [BCI Meeting](https://bcisociety.org/bci-meeting/)
 * [NeuroGaming / XTech](http://www.neurogamingconf.com/) [(Youtube Videos)](https://www.youtube.com/user/NeuroGamingCon/videos)
 * [CHI](https://chi2016.acm.org/wp/)
 * [BrainTech](http://conference.israelbrain.org/)
 * [Brain Summit](http://brainsummit.com/)
 * [NIPS](https://nips.cc/)
 * [SfN](http://www.sfn.org/)
-* [g.tec SpringSchool on BCI](https://www.gtec.at/spring-school-2021/)
+* [g.tec SpringSchool on BCI](https://www.gtec.at/event/bci-neurotechnology-spring-school-2025/)
 
 ## Reading Material
 
@@ -322,7 +314,7 @@ These devices combine different type of sensors to measure or influence brain ac
 - [Single-Trial Analysis and Classification of ERP Components – a Tutorial](http://doc.ml.tu-berlin.de/bbci/publications/BlaLemTreHauMue10.pdf)
 - [Interpretable Deep Neural Networks for Single-Trial EEG Classification](https://www.researchgate.net/publication/301817936_Interpretable_Deep_Neural_Networks_for_Single-Trial_EEG_Classification)
 - [Large-Scale Assessment of a Fully Automatic Co-Adaptive Motor Imagery-Based Brain Computer Interface](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148886)
-- [Word pair classification during imagined speech using direct brain recording](http://knightlab.berkeley.edu/statics/publications/2016/10/03/srep25803.pdf)
+- [Word pair classification during imagined speech using direct brain recording](https://www.nature.com/articles/srep25803)
 - [Brain-Computer Interfaces Review, Nicolelis & Lebedev. 2017](https://www.ncbi.nlm.nih.gov/pubmed/28275048)
 - [High-speed spelling with a noninvasive brain–computer interface](http://www.pnas.org/content/112/44/E6058.abstract)
 - [A high-speed brain-computer interface (BCI) using dry EEG electrodes](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0172400)
@@ -350,12 +342,12 @@ These devices combine different type of sensors to measure or influence brain ac
 * Berkeley DSP class [lectures](https://www.youtube.com/watch?v=6_-ljdxjwac&list=PL-XXv-cvA_iCUQkarn2fxB3NggnPF_dob), [page](https://inst.eecs.berkeley.edu/~ee123/sp15/)
 * [Signals & Systems (Oppenheim, Willsky, Hamid)](http://www.amazon.com/Signals-Systems-Edition-Alan-Oppenheim/dp/0138147574)
 * [Discrete-Time Signal Processing (2nd Edition) (Oppenheim, Schafer, Buck)](http://www.amazon.com/Discrete-Time-Signal-Processing-Edition-Prentice-Hall/dp/0137549202)
-* [Data analysis lecturelets (Mike X Cohen)](http://www.mikexcohen.com/lectures.html)
+* [Data analysis lecturelets (Mike X Cohen)](https://www.youtube.com/@mikexcohen1)
 
 ## Schools & Summer Courses
 
 * [NeuroTech MicroCredentials Course](https://neurotechmicrocreds.com/): An accredited series of theoretical and hands-on courses on Neurotechnology, offered by NeuroTechX and Queens University.
-* [Neuromatch Academy (NMA) Summer Schools](https://neuromatch.io/academy/): An online, community-driven set of summer schools in computational sciences
+* [Neuromatch Academy (NMA) Summer Schools](https://neuromatch.io/courses/): An online, community-driven set of summer schools in computational sciences
 * [Sinxpress summer schools](https://sincxpress.com/summerschool.html) by Mike X. Cohen
 * [Brainhack](https://brainhack.org/): A community-driven, online, and in-person school for neurotech enthusiasts, happening in many cities around you!
 * Recurring summer schools or community-maintained lists of Neurotech-related summer schools
@@ -364,8 +356,7 @@ These devices combine different type of sensors to measure or influence brain ac
 
 ## Other Resources
 * [Neuroscience Duke Course (Coursera)](https://www.coursera.org/learn/medical-neuroscience)
-* [Brede Wiki](http://neuro.compute.dtu.dk/wiki/Main_Page)
-* [Novel Neurotechnologies Intervening in the Brain](https://nuffieldbioethics.org/wp-content/uploads/2013/06/Novel_neurotechnologies_report_PDF_web_0.pdf)
+* [Novel Neurotechnologies Intervening in the Brain](https://web.archive.org/web/20230610175248/https://www.nuffieldbioethics.org/wp-content/uploads/2013/06/Novel_neurotechnologies_report_PDF_web_0.pdf)
 * [Augment Human Cognition by optimizing cortical oscillations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072086/)
 * [Open Neuroscience](https://open-neuroscience.com/) - a user-driven database of Open Source/Science projects related to Neurosciences
 * [Awesome-BCI-Reviews](https://github.com/okbalefthanded/awesome-bci-reviews) - Curated list of Brain-Computer Interface peer-reviewd published reviews and surveys ordered by year of publication.
