@@ -28,7 +28,6 @@ This list of resources is non-exhaustive. If you find something which you think 
     - [Brain Stimulation](#brain-stimulation)
     - [Upcoming NeuroImaging Tech](#upcoming-neuroimaging-tech)
   - [Brain Databases](#brain-databases)
-  - [Consultants For Hire](#consultants-for-hire)
   - [Tutorials and Project Ideas](#tutorials-and-project-ideas)
   - [Communities and Blogs](#communities-and-blogs)
     - [Forums](#forums)
