@@ -251,6 +251,7 @@ These devices combine different type of sensors to measure or influence brain ac
 * [BCI Course offered by Columbia University](http://naplab.ee.columbia.edu/bcilab.html)
 * [BCI Course at Berkeley by Pierre of NeuroTechX](https://github.com/NeurotechBerkeley/bci-course)
 * [EEG and MRI Course offered by OHBM](https://www.humanbrainmapping.org/m/pages.cfm?pageID=3814)
+* [Prometheus Multimodal BCI (Olympic Torch)](https://github.com/inclusive-brains/prometheus-bci)
 
 ## Communities and Blogs
 
