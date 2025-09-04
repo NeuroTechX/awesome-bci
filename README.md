@@ -93,6 +93,7 @@ These applications help you design BCI experiments, run them, collect data, and 
 * [Brainflow](https://brainflow.org)
 * [EEG-ExPy](https://github.com/neurotechx/eeg-expy)
 * [PyBCI](https://github.com/LMBooth/pybci)
+* [mw75-streamer](https://github.com/arctop/mw75-streamer)
 
 ### Mobile Apps
 
