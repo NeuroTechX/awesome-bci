@@ -361,3 +361,7 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Augment Human Cognition by optimizing cortical oscillations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072086/)
 * [Open Neuroscience](https://open-neuroscience.com/) - a user-driven database of Open Source/Science projects related to Neurosciences
 * [Awesome-BCI-Reviews](https://github.com/okbalefthanded/awesome-bci-reviews) - Curated list of Brain-Computer Interface peer-reviewd published reviews and surveys ordered by year of publication.
+
+## Contributing
+
+We welcome contributions to this awesome list! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit changes.
