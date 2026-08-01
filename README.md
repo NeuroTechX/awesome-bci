@@ -146,6 +146,7 @@ Some of these devices are still supported and actively developed by manufacturer
 * [CGX (formerly Cognionics)](https://cgxsystems.com/): Research-grade dry-electrode EEG systems.
 * [Elemind](https://elemindtech.com/)
 * [Neurosky](https://neurosky.com/)
+* [Adam-EEG](https://github.com/shiva16/Adam-EEG): open-source 32-channel EEG board — quad TI ADS1299 AFE + dual ATmega328, EAGLE source, 2015.
 * [FreeEEG32: an open source 32 channel eeg](https://www.crowdsupply.com/neuroidss/freeeeg32)
 * [EEG-SMT by Olimex](https://bakerdh.wordpress.com/2013/01/31/a-first-look-at-the-olimex-eeg-smt/)
 * [HackEEG](https://www.crowdsupply.com/starcat/hackeeg)
