@@ -55,6 +55,7 @@ These applications help you design BCI experiments, run them, collect data, and 
 * [BCI2000](https://www.bci2000.org/mediawiki/index.php/Main_Page): Software suite with GUI based on C++ for data acquisition, stimulus presentation, and brain monitoring applications.
 * [Brainstorm](https://neuroimage.usc.edu/brainstorm/): Collaborative, open-source application dedicated to the analysis of brain recordings: MEG, EEG, fNIRS, ECoG, depth electrodes and multiunit electrophysiology.
 * [BrainBay](http://www.shifz.org/brainbay/): Bio- and neurofeedback application working with various hardware frameworks including OpenBCI/OpenEEG.
+* [BrainPilot](https://github.com/NeuroAIHub/BrainPilot) - Open-source multi-agent research platform with EEG motor-imagery analysis examples, extensible scientific tools, cloud access, and inspectable execution traces.
 * [edf2csv](https://github.com/tayal-sarthak/edf2csv): Local command-line tool for converting EDF, EDF+, BDF, and BDF+ recordings into signal CSVs, channel information, annotations, and metadata, without  resampling mixed-rate channels.
 * [edfcore](https://github.com/tayal-sarthak/edfcore): Zero-dependency TypeScript library for reading EDF-family biosignal recordings in browser and Node.js applications.
 * [EventIDE](https://www.okazolab.nl/): EventIDE is a software platform for designing and running multimodal experiments, with an IDE.
