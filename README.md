@@ -76,7 +76,7 @@ These applications help you design BCI experiments, run them, collect data, and 
 
 ### Python Toolboxes
 
-* [Aletheia Spikelock](https://github.com/shaneraphel/aletheia-spikelock) - Occupancy kernel for EDF, BIDS-EEG, XDF, BrainVision, and WFDB. An empty recording refuses instead of reporting 0 channels.
+* [Aletheia Spikelock](https://github.com/shaneraphel/aletheia-spikelock) - Reads and writes EEG interchange formats BCI pipelines record (EDF, BIDS-EEG, XDF, BrainVision, WFDB). An empty recording refuses instead of reporting 0 channels.
 * [Thunder](https://github.com/thunder-project/thunder)
 * [Pyff](https://github.com/bbci/pyff)
 * [Mushu](https://github.com/bbci/mushu)
