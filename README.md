@@ -155,6 +155,7 @@ Some of these devices are still supported and actively developed by manufacturer
 * [HackEEG](https://www.crowdsupply.com/starcat/hackeeg)
 * [icibici](https://icibici.github.io/site/)
 * [OpenEEG](https://openeeg.sourceforge.net/doc/)
+* [NeuroDAQ](https://github.com/carlos-lorenzo/neurodaq) Open source EEG headset. Development and explanations on YouTube so great to learn how an EEG headset works.
 
 #### Research Devices Manufactures
 
@@ -244,6 +245,7 @@ These devices combine different type of sensors to measure or influence brain ac
 * [PhysioNet](https://physionet.org/)
 * [National Sleep Research Resource](https://sleepdata.org/): A large collection of sleep data. Supported by the Sleep Research Society (SRS).
 * [Temple University EEG Corpora](https://isip.piconepress.com/projects/): various datasets including health, epilepsy, artifactual, etc.
+* [MOABB](https://moabb.neurotechx.com/docs/index.html) - Collection of many datasets with its own Python library for ease of use
 
 ## Tutorials and Project Ideas
 
