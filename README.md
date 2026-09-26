@@ -155,6 +155,7 @@ Some of these devices are still supported and actively developed by manufacturer
 * [HackEEG](https://www.crowdsupply.com/starcat/hackeeg)
 * [icibici](https://icibici.github.io/site/)
 * [OpenEEG](https://openeeg.sourceforge.net/doc/)
+* [NeuroDAQ](https://github.com/carlos-lorenzo/neurodaq): Open Source EEG headset. Its development is documented on YouTube so it's a great place to learn how EEG headsets work.
 
 #### Research Devices Manufactures
 
