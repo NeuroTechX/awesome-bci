@@ -251,6 +251,7 @@ These devices combine different type of sensors to measure or influence brain ac
 * [EEGEdu](https://eegedu.com): Web-based live Tutorial on EEG and BCI, from basic to advanced. Maintained by the Mathewsons ([Ky](https://sites.psych.ualberta.ca/kylemathewson/)[Kor](https://korymathewson.com/)[Key](https://www.linkedin.com/in/keyfer/))
 * [How to Hack Toy EEGs](https://frontiernerds.com/brain-hack)
 * [BCI Workshop](https://github.com/NeuroTechX/bci-workshop/blob/master/INSTRUCTIONS.md)
+* [IntentLab](https://github.com/shrut10/intentlab-bci) - Interactive recorded-EEG motor-imagery demo and teaching exercise covering participant-disjoint evaluation, confidence-based abstention and reproducible calibration experiments.
 * [Introduction to Modern BCI](https://eeglab.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design)
 * [Brain-Controlled Shark Attack](http://eeghacker.blogspot.com/2015/03/brain-controlled-shark-attack.html)
 * [Controlling a sphero with a muse](https://github.com/neuralcubes/musephero)
