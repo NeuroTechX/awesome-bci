@@ -136,7 +136,7 @@ This section is separated into different sections based on the types of technolo
 Some of these devices are still supported and actively developed by manufacturers, community members, or researchers. Others are no longer supported but may still have a community of users who can help you get access.
 
 * [Synchron Stentrode](https://synchron.com/): An investigational, minimally invasive BCI that is implanted into a blood vessel in the brain without open-brain surgery, enabling paralyzed individuals to control digital devices.
-* [Kernel Flow](https://www.kernel.com/flow): Non-invasive, light-based neuroimaging (TD-fNIRS) system used for wellness tracking, cognitive function assessment, and mental health monitoring.
+* [Kernel Flow](https://www.kernel.com/): Non-invasive, light-based neuroimaging (TD-fNIRS) system used for wellness tracking, cognitive function assessment, and mental health monitoring.
 * [Neurable MW75 Neuro & HyperX Gaming Headset](https://www.neurable.com/): Non-invasive BCI technology integrated into high-end headphones and gaming headsets, providing real-time insights into focus and cognitive load.
 * [Neurosity Crown](https://neurosity.co/): Third-generation BCI with high-fidelity EEG signal processing and embedded edge computing for real-time data analysis.
 * [Blackrock Neurotech MoveAgain & Axon-R](https://blackrockneurotech.com/): MoveAgain is an advanced clinical BCI system (implanted electrode array) for paralyzed users, while Axon-R is a non-invasive AR-enabled BCI headset.
@@ -259,7 +259,6 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Muse File Reader for OpenVibe](https://web.archive.org/web/20240930191736/https://openvibe.inria.fr/forum/viewtopic.php?f=3&t=9668)
 * [EEG 101: Interactive tutorial for Android and Muse](https://github.com/NeuroTechX/eeg-101)
 * [Brainwave analyzer](https://github.com/katie356/BrainwaveAnalyzer/tree/master/web-edition)
-* [BCI Course offered by Columbia University](https://naplab.ee.columbia.edu/bcilab.html)
 * [BCI Course at Berkeley by Pierre of NeuroTechX](https://github.com/neurotech-berkeley/neurotech-course)
 * [EEG and MRI Course offered by OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3814&activateFull=true)
 * [Prometheus Multimodal BCI (Olympic Torch)](https://github.com/inclusive-brains/prometheus-bci)
@@ -303,14 +302,14 @@ These devices combine different type of sensors to measure or influence brain ac
 * [Cybathlon](https://cybathlon.com/en)
 
 ## Conferences and Events
-* [**List**: Curated list of events (BCI Society)](https://bcisociety.org/events/)
+* [**List**: Curated list of events (BCI Society)](https://bcisociety.org/)
 * [BCI Thursdays (BCI Society)](https://bcisociety.org/bci-thursdays-online-events/)
 * [BCI Meeting (12th International BCI Meeting, June 7-10, 2027, Croatia)](https://bcisociety.org/bci-meeting/)
 * [CNS 2026 Annual Meeting (March 7-10, 2026, Vancouver, Canada)](https://www.cogneurosociety.org/annual-meeting/)
 * [FENS Forum 2026 (July 6-10, 2026, Barcelona, Spain)](https://fensforum.org/)
 * [10th Graz Brain-Computer Interface Conference 2026 (September 14-18, 2026)](https://bci.tugraz.at/)
 * [NeuroGaming / XTech](http://www.neurogamingconf.com/) [(Youtube Videos)](https://www.youtube.com/user/NeuroGamingCon/videos)
-* [CHI](https://chi2026.acm.org/wp/)
+* [CHI](https://chi2026.acm.org/)
 * [BrainTech](http://conference.israelbrain.org/)
 * [Brain Summit](https://brainsummit.com/)
 * [NIPS](https://nips.cc/)
