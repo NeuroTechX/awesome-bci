@@ -116,6 +116,7 @@ These applications help you design BCI experiments, run them, collect data, and 
 * [PiEEG](https://pieeg.com/)
 * [Blino PiNaps](https://github.com/BlinoTech/BlinoTech.github.io)
 * [IntelliPi](https://github.com/AtlantsEmbedded/IntelliPi)
+* [ads1299-linux](https://github.com/stephan-biomedical-engineer/ads1299-linux) - Linux kernel (IIO) driver for the TI ADS1299 EEG front-end on SPI, with a Raspberry Pi overlay; out of tree, with mainline support in progress.
 
 ### Communication Protocols
 
