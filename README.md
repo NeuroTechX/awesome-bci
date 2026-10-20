@@ -124,6 +124,7 @@ These are some of the commonly used Communication protocols.
 * [Lab Streaming Layer](https://github.com/sccn/labstreaminglayer)
 * [Open Sound Control](http://www.opensoundcontrol.org/)
 * [FieldTrip buffer](https://www.fieldtriptoolbox.org/development/realtime/buffer_protocol/)
+* [BCI Engine](https://github.com/liferoad2017/bci-engine) - A cross-platform C++ middleware that streams raw EEG data from BrainFlow SDK and EDF files to LSL, focusing on high-fidelity data movement without preprocessing.
 
 ## Hardware
 This section is separated into different sections based on the types of technology. 
