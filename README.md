@@ -217,6 +217,7 @@ These devices combine different type of sensors to measure or influence brain ac
 * [NerveX](https://nx.vet/): VNS in canine epilepsy.
 * [NeuroSigma](https://www.neurosigma.com/): eTNS
 * [Brainsway](https://www.brainsway.com/): Deep TMS
+* [Hathor 40 Hz](https://hathor.live/40hz): In-browser 40 Hz light and sound (gamma) entrainment sessions with a session library and display-refresh checks
 
 ### Upcoming NeuroImaging Tech
 
