@@ -63,6 +63,7 @@ These applications help you design BCI experiments, run them, collect data, and 
 * [MNE](https://mne.tools/stable/install/mne_tools_suite.html): MNE-Python is an open-source Python module for processing, analysis, and visualization of functional neuroimaging data (EEG, MEG, sEEG, ECoG, and fNIRS). The tools suite includes interoperable packages in Python, MATLAB, C++, etc., which operate in GUI, CLI, or API.
 * [PsychoPy Builder](https://www.psychopy.org/builder/): PsychoPy is an open-source application for creating experiments in neuroscience, psychology, and psychophysics.
 * [PsychToolBox](http://psychtoolbox.org/): Psychophysics Toolbox Version 3 (PTB-3) is a free set of Matlab and GNU Octave functions for vision and neuroscience research.
+* [VibeMyExpt](https://vibemyexpt.com/): Browser-based platform for building jsPsych experiments, with AI-assisted, editable code, that sends event markers to EEG, fNIRS and eye-tracking recordings through Lab Streaming Layer or USB TTL trigger boxes. Has a free plan.
 
 ### Matlab Toolboxes
 
